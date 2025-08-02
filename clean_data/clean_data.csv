@@ -29,11 +29,11 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 24.0,Laki-laki,Pegawai swasta,18100469.51,1,47.00327669,163.1820247,0,SMA,1
 50.0,Laki-laki,PNS,17167729.69,1,48.00951938,168.9577473,0,S1,1
 28.0,Laki-laki,PNS,8353226.514,1,79.9145153,191.6440867,0,S1,0
-49.0,Perempuan,Pengangguran,5307319.545,1,47.65400188,170.2330063,1,SMP,1
+49.0,Perempuan,Tidak ingin memberitahu,5307319.545,1,47.65400188,170.2330063,1,SMP,1
 42.0,Laki-laki,Pegawai swasta,13475833.89,1,52.18070059,161.2655352,0,S1,1
 34.0,Perempuan,Pegawai swasta,9880872.229,1,46.11419059,164.9337729,0,S1,1
 42.0,Laki-laki,PNS,4523667.44,1,59.39016775,187.0827638,0,SD,0
-34.0,Laki-laki,Pengangguran,5691835.614,1,72.96872409,164.1900725,0,S1,0
+34.0,Laki-laki,Tidak ingin memberitahu,5691835.614,1,72.96872409,164.1900725,0,S1,0
 40.0,Perempuan,Pegawai swasta,6822556.511,1,67.93556957,175.7560996,1,SD,1
 54.0,Laki-laki,Pegawai swasta,9970288.904,1,47.56918387,160.8625655,1,S2,0
 38.0,Laki-laki,Freelance,7662164.443,1,46.33787191,157.9327227,1,SMA,1
@@ -56,7 +56,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 43.0,Perempuan,PNS,16629901.15,1,47.10334246,176.5957512,1,SMP,0
 47.0,Laki-laki,PNS,11251318.07,1,59.85438135,163.0249052,0,S1,1
 40.0,Laki-laki,Pegawai swasta,12052140.05,1,63.15549232,162.1151965,1,S1,1
-33.0,Laki-laki,Pengangguran,5459195.593,1,50.19956134,157.2625405,1,SMA,1
+33.0,Laki-laki,Tidak ingin memberitahu,5459195.593,1,50.19956134,157.2625405,1,SMA,1
 52.0,Laki-laki,PNS,18025426.93,1,54.28844094,181.5435848,0,SMA,1
 37.0,Laki-laki,Pegawai swasta,12805715.82,1,48.98024609,162.2767257,1,SMA,1
 49.0,Laki-laki,PNS,5623732.118,1,43.98074578,180.104522,0,SMA,0
@@ -89,7 +89,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 49.0,Laki-laki,Pegawai swasta,6170297.674,1,55.90394695,153.6527499,0,S1,1
 33.0,Perempuan,PNS,8736950.831,1,56.99432793,163.1299705,1,SMA,0
 50.0,Laki-laki,PNS,10301718.19,1,63.60080389,154.9205305,0,S1,1
-44.0,Laki-laki,Pengangguran,12355387.53,1,59.08506284,162.145496,0,S1,0
+44.0,Laki-laki,Tidak ingin memberitahu,12355387.53,1,59.08506284,162.145496,0,S1,0
 43.0,Laki-laki,PNS,12495788.61,1,72.76233675,178.3024007,1,SMA,1
 35.0,Perempuan,PNS,5307282.987,1,56.99229109,177.5615084,1,S1,1
 22.0,Perempuan,Pegawai swasta,7673774.603,1,46.24307528,170.4377689,0,S1,1
@@ -108,7 +108,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 36.0,Perempuan,PNS,8952999.651,1,48.40284237,170.013961,0,S1,1
 21.0,Laki-laki,Pengangguran,7225247.032,1,53.54291995,171.4745128,0,S1,1
 32.0,Perempuan,PNS,5860159.692,1,42.41951799,170.8089602,0,S3,1
-49.0,Perempuan,Pengangguran,8705630.284,1,57.53346278,165.6788446,1,SMA,0
+49.0,Perempuan,Tidak ingin memberitahu,8705630.284,1,57.53346278,165.6788446,1,SMA,0
 37.0,Laki-laki,Freelance,5564324.499,1,52.01587691,163.7157397,0,SMA,1
 41.0,Perempuan,Pegawai swasta,5372436.283,1,59.83635375,177.0092274,1,SMA,1
 49.0,Laki-laki,PNS,7185928.059,1,52.03892102,149.1239296,0,S1,1
@@ -125,7 +125,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 38.0,Laki-laki,PNS,7487492.584,1,52.99108876,165.1279065,0,SMA,0
 32.0,Laki-laki,PNS,9499471.401,1,49.52404369,156.9287425,0,S1,0
 51.0,Laki-laki,Pegawai swasta,8517313.354,1,62.12834958,153.2082725,1,SMA,0
-50.0,Laki-laki,Pengangguran,6070670.328,1,58.27062274,160.4411849,1,S1,1
+50.0,Laki-laki,Tidak ingin memberitahu,6070670.328,1,58.27062274,160.4411849,1,S1,1
 40.0,Laki-laki,PNS,5352380.536,1,58.78393172,167.6288481,1,SMP,1
 25.0,Perempuan,Pegawai swasta,6431255.465,1,84.55628607,175.8815051,0,SMA,1
 17.0,Laki-laki,PNS,9300775.303,0,44.84201176,157.3663937,1,S1,1
@@ -161,11 +161,11 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 45.0,Laki-laki,Freelance,10171340.57,1,55.36255803,182.7135899,0,SMP,1
 35.0,Perempuan,PNS,8524418.05,1,61.55143807,167.2868261,0,S2,1
 48.0,Laki-laki,PNS,8326773.754,1,48.16093725,166.3544705,1,SMA,0
-28.0,Laki-laki,Pengangguran,4857236.426,1,54.47927684,164.7385542,0,SMA,0
+28.0,Laki-laki,Tidak ingin memberitahu,4857236.426,1,54.47927684,164.7385542,0,SMA,0
 48.0,Perempuan,Pegawai swasta,5888164.363,1,49.50687013,159.1672038,1,S3,0
 27.0,Laki-laki,PNS,9137886.368,1,69.74412472,177.0139559,0,S1,1
 61.0,Laki-laki,Freelance,10145591.45,1,50.15939783,152.6794188,0,SD,1
-50.0,Perempuan,Pengangguran,15403426.82,1,67.76696434,167.9413813,0,SMA,1
+50.0,Perempuan,Tidak ingin memberitahu,15403426.82,1,67.76696434,167.9413813,0,SMA,1
 31.0,Laki-laki,Pegawai swasta,6189960.802,1,57.56997453,170.0688934,0,S1,0
 39.0,Laki-laki,Pegawai swasta,9853433.764,1,69.59384198,174.1759075,0,SMA,1
 47.0,Laki-laki,PNS,13147727.81,1,55.09244231,173.6927354,0,S2,0
@@ -205,7 +205,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 49.0,Perempuan,PNS,4732684.593,1,49.8391041,167.3612316,0,SMA,1
 42.0,Laki-laki,Pegawai swasta,14279172.34,1,50.13003247,174.3728611,0,S1,1
 38.0,Laki-laki,PNS,26517176.12,1,41.92654778,175.7076252,0,SMP,1
-47.0,Laki-laki,Pengangguran,7381589.394,1,62.12662251,184.8380941,1,SMA,1
+47.0,Laki-laki,Tidak ingin memberitahu,7381589.394,1,62.12662251,184.8380941,1,SMA,1
 48.0,Laki-laki,Pengangguran,15454451.69,1,74.52313687,186.8806431,0,S1,1
 42.0,Laki-laki,PNS,7557606.003,1,51.15312661,177.3589997,0,SMP,1
 38.0,Laki-laki,PNS,6426999.433,1,54.33606426,168.7022719,1,S1,0
@@ -236,7 +236,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 33.0,Laki-laki,Pegawai swasta,10125265.8,1,66.11541494,174.0372875,0,S1,1
 47.0,Laki-laki,Pegawai swasta,7533860.294,1,55.61506146,164.4530549,0,SMA,1
 38.0,Laki-laki,PNS,7782355.791,1,55.03634958,162.5658894,1,SMA,0
-45.0,Laki-laki,Pengangguran,8028272.212,1,51.24558384,169.3486033,1,S1,1
+45.0,Laki-laki,Tidak ingin memberitahu,8028272.212,1,51.24558384,169.3486033,1,S1,1
 40.0,Laki-laki,Pegawai swasta,7115947.367,1,56.55612982,179.7825571,0,SMP,0
 28.0,Laki-laki,PNS,7753852.926,1,43.9579523,145.1834382,0,S1,1
 35.0,Laki-laki,Freelance,4538042.262,1,59.94620626,156.8463042,1,S2,1
@@ -328,7 +328,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 43.0,Laki-laki,PNS,7531139.991,1,55.00349876,149.4254659,1,S1,0
 39.0,Laki-laki,Pegawai swasta,5442194.899,1,63.86605388,168.6578816,0,S1,1
 57.0,Laki-laki,Pegawai swasta,5391999.983,1,60.76061639,169.563776,0,SMA,0
-34.0,Perempuan,Pengangguran,4594727.344,1,69.46054517,152.3704073,1,SMA,1
+34.0,Perempuan,Tidak ingin memberitahu,4594727.344,1,69.46054517,152.3704073,1,SMA,1
 47.0,Laki-laki,PNS,9298862.26,1,57.81010706,170.1916137,0,S1,1
 48.0,Perempuan,Pegawai swasta,2638809.609,1,55.93931234,168.5970574,0,S1,0
 46.0,Laki-laki,Pegawai swasta,6224246.793,1,65.71940251,153.6318459,1,SMA,0
@@ -543,7 +543,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 45.0,Laki-laki,Pegawai swasta,4533410.5,1,55.21235469,165.7128059,1,S1,1
 45.0,Perempuan,Pegawai swasta,7763536.428,1,70.54730357,167.3552707,0,S1,1
 32.0,Laki-laki,PNS,6995408.815,1,59.54878842,154.8912398,1,S1,0
-36.0,Laki-laki,Pengangguran,8840057.836,1,58.66401185,171.1266175,0,SMA,1
+36.0,Laki-laki,Tidak ingin memberitahu,8840057.836,1,58.66401185,171.1266175,0,SMA,1
 45.0,Laki-laki,PNS,15088589.97,1,57.2357378,161.6065041,0,S1,0
 60.0,Laki-laki,Freelance,4278910.544,1,47.59733918,148.1576824,0,S1,1
 62.0,Perempuan,Pegawai swasta,6698481.703,1,49.95019525,140.7547135,0,S1,1
@@ -554,14 +554,14 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 19.0,Laki-laki,PNS,2963921.287,0,49.08493201,161.7788887,1,S2,1
 34.0,Laki-laki,Freelance,11571220.24,1,67.50765048,178.726557,0,SMP,1
 38.0,Laki-laki,Freelance,4209877.825,1,75.29825574,172.0024345,0,S1,1
-33.0,Perempuan,Pengangguran,14874639.87,1,63.39106438,185.2591727,0,S2,0
+33.0,Perempuan,Tidak ingin memberitahu,14874639.87,1,63.39106438,185.2591727,0,S2,0
 43.0,Laki-laki,PNS,19568447.75,1,52.25056518,165.6085654,1,SMA,1
 27.0,Laki-laki,PNS,12932849.05,1,45.87304913,175.6551834,1,S1,1
 59.0,Laki-laki,Freelance,6592810.461,1,55.19359782,190.5308483,1,S2,0
 39.0,Laki-laki,Pegawai swasta,11825769.02,1,56.85436513,174.3352298,0,SMP,0
 27.0,Laki-laki,PNS,9483147.673,1,52.23138568,158.0826069,0,SMA,1
 44.0,Laki-laki,PNS,4859961.962,1,59.19728278,185.7620087,0,S1,1
-51.0,Laki-laki,Pengangguran,6801413.8,1,47.19388842,166.5446169,0,SMA,0
+51.0,Laki-laki,Tidak ingin memberitahu,6801413.8,1,47.19388842,166.5446169,0,SMA,0
 27.0,Laki-laki,Pengangguran,3433660.861,1,51.71072195,163.9253219,0,S1,1
 50.0,Laki-laki,Pegawai swasta,4575736.709,1,49.77226242,162.8301211,1,S3,1
 40.0,Perempuan,Pegawai swasta,4448664.195,1,60.39121484,159.5712571,1,S1,0
@@ -670,8 +670,8 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 35.0,Perempuan,PNS,3098967.733,1,53.95086201,172.4343245,1,S1,0
 38.0,Laki-laki,PNS,6519985.453,1,55.0075806,153.7596841,0,S1,0
 54.0,Laki-laki,Pegawai swasta,7594347.53,1,53.31627394,165.9814254,1,S1,1
-35.0,Perempuan,Pengangguran,5919247.084,1,48.16518245,169.6296083,0,S1,0
-35.0,Laki-laki,Pengangguran,3538357.056,1,57.11698965,165.4932976,1,SMA,1
+35.0,Perempuan,Tidak ingin memberitahu,5919247.084,1,48.16518245,169.6296083,0,S1,0
+35.0,Laki-laki,Tidak ingin memberitahu,3538357.056,1,57.11698965,165.4932976,1,SMA,1
 31.0,Laki-laki,Freelance,11706119.27,1,56.24859274,177.1078968,1,SMA,1
 36.0,Laki-laki,PNS,16981491.69,1,45.72390894,150.2771589,0,S3,0
 53.0,Laki-laki,Freelance,4451104.274,1,66.54131399,146.1573702,0,S1,0
@@ -696,7 +696,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 32.0,Laki-laki,Freelance,4146799.544,1,50.55479783,161.2165429,1,S1,0
 32.0,Perempuan,Pegawai swasta,2269614.486,1,54.94770327,190.3259475,0,S1,1
 38.0,Laki-laki,PNS,4883617.126,1,46.2816057,156.4311974,0,S1,1
-39.0,Perempuan,Pengangguran,5247681.353,1,62.07249524,170.9332166,1,SMA,1
+39.0,Perempuan,Tidak ingin memberitahu,5247681.353,1,62.07249524,170.9332166,1,SMA,1
 42.0,Laki-laki,PNS,14539700.16,1,67.26333258,162.0359701,1,SMA,1
 46.0,Laki-laki,PNS,6175076.726,1,82.30983193,176.7665376,1,S1,0
 54.0,Laki-laki,Pegawai swasta,6055664.547,1,66.90554859,163.5783445,1,SMA,0
@@ -740,7 +740,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 33.0,Perempuan,Pegawai swasta,6896904.391,1,48.78111376,145.8072425,1,S1,0
 50.0,Perempuan,Pegawai swasta,2729360.489,1,60.99766156,165.0835006,0,S3,1
 34.0,Laki-laki,PNS,12254516.66,1,49.76729087,163.2855,1,S1,1
-54.0,Perempuan,Pengangguran,10576619.87,1,58.23478379,176.8406679,1,S2,1
+54.0,Perempuan,Tidak ingin memberitahu,10576619.87,1,58.23478379,176.8406679,1,S2,1
 33.0,Laki-laki,Freelance,9321508.605,1,53.57807994,170.7045447,1,S1,0
 22.0,Laki-laki,Pegawai swasta,7355244.255,1,44.80111407,172.2518974,1,S1,1
 56.0,Perempuan,PNS,11693320.59,1,57.86797844,159.6444825,1,SMA,0
@@ -806,7 +806,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 43.0,Laki-laki,Pegawai swasta,6795543.596,1,51.49602373,156.4118487,0,SMA,1
 39.0,Laki-laki,Pegawai swasta,4695957.118,1,62.09918109,165.7259877,0,S1,1
 41.0,Laki-laki,Pegawai swasta,8971034.811,1,51.63252033,162.6736662,1,SMP,1
-53.0,Laki-laki,Pengangguran,10246908.57,1,46.96814514,159.5685298,0,S1,1
+53.0,Laki-laki,Tidak ingin memberitahu,10246908.57,1,46.96814514,159.5685298,0,S1,1
 49.0,Laki-laki,Freelance,5953285.782,1,58.9751179,170.7773195,1,S1,1
 39.0,Laki-laki,Pegawai swasta,8869228.094,1,45.72017785,165.2791467,1,SMA,0
 50.0,Laki-laki,Pegawai swasta,9925472.249,1,47.16088522,159.1199214,1,SMA,1
@@ -921,10 +921,10 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 35.0,Laki-laki,Pegawai swasta,10488519.27,1,99.39666936,186.9932239,0,S1,1
 20.0,Laki-laki,PNS,5344969.136,1,49.83744193,169.020457,0,SMA,1
 33.0,Laki-laki,Pegawai swasta,7453904.862,1,55.51395768,169.8950457,1,SMA,1
-32.0,Perempuan,Pengangguran,6841012.141,1,55.50904148,165.5027446,1,SMA,0
+32.0,Perempuan,Tidak ingin memberitahu,6841012.141,1,55.50904148,165.5027446,1,SMA,0
 49.0,Perempuan,PNS,2038728.451,1,61.30071963,191.9265415,0,S1,0
 54.0,Laki-laki,Pengangguran,6599753.928,1,60.41494226,190.0980501,0,SMA,1
-48.0,Perempuan,Pengangguran,11666719.05,1,61.15373791,180.1446937,0,SMA,1
+48.0,Perempuan,Tidak ingin memberitahu,11666719.05,1,61.15373791,180.1446937,0,SMA,1
 37.0,Perempuan,Pegawai swasta,7698439.539,1,43.89589533,160.1079404,0,SMA,1
 40.0,Laki-laki,PNS,8075453.528,1,49.71262323,160.9714641,0,SMA,1
 24.0,Laki-laki,Freelance,5069267.604,1,56.99234504,162.1412839,0,S1,1
@@ -937,7 +937,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 41.0,Perempuan,Pegawai swasta,13713593.75,1,50.47843032,167.4161003,0,S1,1
 47.0,Laki-laki,PNS,5616442.994,1,51.44635651,176.0619623,0,S1,1
 37.0,Laki-laki,Pegawai swasta,5238794.16,1,55.77926944,162.4692033,0,SMA,0
-32.0,Laki-laki,Pengangguran,5098653.154,1,63.59834143,175.610106,0,SMA,1
+32.0,Laki-laki,Tidak ingin memberitahu,5098653.154,1,63.59834143,175.610106,0,SMA,1
 37.0,Perempuan,Pegawai swasta,4545014.187,1,49.36503035,166.8514133,1,SMA,1
 47.0,Perempuan,Pegawai swasta,6951955.007,1,76.62778391,167.9413331,1,SMA,0
 17.0,Perempuan,Pegawai swasta,4484239.207,0,57.01013395,170.0359925,0,SMA,0
@@ -1066,7 +1066,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 29.0,Laki-laki,PNS,4649884.596,1,57.09003319,179.9480265,1,SMA,0
 50.0,Perempuan,PNS,3791179.62,1,48.03061728,177.1666366,1,S1,1
 37.0,Laki-laki,PNS,5116208.909,1,72.51300409,169.1887104,1,S1,1
-43.0,Laki-laki,Pengangguran,11657988.09,1,43.20002438,154.9711056,0,S1,1
+43.0,Laki-laki,Tidak ingin memberitahu,11657988.09,1,43.20002438,154.9711056,0,S1,1
 47.0,Laki-laki,PNS,6624405.78,1,56.80332946,164.9163085,0,SMA,0
 40.0,Perempuan,Pegawai swasta,6339410.863,1,49.49164262,168.2733955,0,S1,1
 26.0,Perempuan,Freelance,11793191.5,1,54.14890807,163.5565093,0,S1,1
@@ -1084,7 +1084,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 33.0,Laki-laki,Pegawai swasta,6260597.214,1,67.32891982,181.1901876,1,SD,1
 33.0,Perempuan,Pegawai swasta,10107582.27,1,50.1126392,164.3550057,1,SMA,1
 57.0,Perempuan,PNS,13657439.02,1,53.66993576,173.1219596,0,SMA,1
-47.0,Perempuan,Pengangguran,16096021.67,1,69.18295549,173.3708658,0,S1,1
+47.0,Perempuan,Tidak ingin memberitahu,16096021.67,1,69.18295549,173.3708658,0,S1,1
 24.0,Laki-laki,Pegawai swasta,9389743.968,1,50.69960873,179.0996693,1,S1,1
 48.0,Laki-laki,Pegawai swasta,3566927.481,1,51.75260835,164.8420696,0,SMP,0
 49.0,Perempuan,Freelance,4848336.316,1,68.60814931,160.5063891,1,S1,1
@@ -1095,7 +1095,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 39.0,Laki-laki,Pengangguran,7088174.271,1,45.62323506,187.4822511,1,S1,1
 38.0,Laki-laki,PNS,12254927.3,1,49.0590841,167.5864808,1,S1,1
 39.0,Perempuan,PNS,13391410.11,1,51.516834,147.5404561,0,SMA,1
-32.0,Laki-laki,Pengangguran,5273890.263,1,67.1236339,190.7664976,1,S1,1
+32.0,Laki-laki,Tidak ingin memberitahu,5273890.263,1,67.1236339,190.7664976,1,S1,1
 48.0,Perempuan,PNS,8758655.848,1,60.28055704,161.5004011,1,S3,1
 39.0,Laki-laki,PNS,5994967.436,1,45.30866466,172.3914669,1,S1,1
 41.0,Laki-laki,Pegawai swasta,17314098.3,1,53.67319749,179.2304167,1,S1,1
@@ -1168,7 +1168,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 42.0,Laki-laki,Pegawai swasta,20962685.39,1,51.31033247,155.517338,1,S1,1
 43.0,Perempuan,Pegawai swasta,6813865.998,1,52.15040979,185.3713997,0,SMP,1
 32.0,Laki-laki,Pegawai swasta,38748655.09,1,46.77543366,162.3484207,0,S1,1
-42.0,Laki-laki,Pengangguran,8026374.817,1,44.80519153,160.2343258,1,S1,1
+42.0,Laki-laki,Tidak ingin memberitahu,8026374.817,1,44.80519153,160.2343258,1,S1,1
 35.0,Laki-laki,PNS,3698992.51,1,52.05241761,173.6772478,0,S1,1
 43.0,Perempuan,Pegawai swasta,12312917.09,1,68.95654369,182.2569975,1,SMA,0
 51.0,Laki-laki,Pegawai swasta,12060529.84,1,52.81547829,166.4624137,0,SMP,0
@@ -1178,7 +1178,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 28.0,Laki-laki,Pegawai swasta,8725541.859,1,58.06888975,190.6277751,1,S1,0
 47.0,Perempuan,PNS,10310750.26,1,47.33175946,167.1063207,0,S1,1
 53.0,Perempuan,Pegawai swasta,5596627.564,1,53.30517575,190.5902231,1,SMP,1
-39.0,Laki-laki,Pengangguran,10144234.31,1,53.3741039,169.3597155,1,S1,1
+39.0,Laki-laki,Tidak ingin memberitahu,10144234.31,1,53.3741039,169.3597155,1,S1,1
 33.0,Laki-laki,PNS,6565891.2,1,44.84034094,160.8325581,0,SMP,0
 43.0,Laki-laki,PNS,7848660.132,1,55.43467016,148.8934262,1,SMP,0
 35.0,Laki-laki,Pegawai swasta,5506581.678,1,45.35259854,158.4359546,0,S1,0
@@ -1211,7 +1211,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 46.0,Perempuan,Pegawai swasta,8316462.097,1,48.22339924,180.7063809,1,S1,1
 27.0,Perempuan,Pegawai swasta,5520186.798,1,51.54309941,180.0046324,1,S1,1
 34.0,Perempuan,Pegawai swasta,7100940.088,1,52.28063965,148.4278149,0,S2,1
-46.0,Laki-laki,Pengangguran,13626562.9,1,56.73070431,159.5301796,1,S1,0
+46.0,Laki-laki,Tidak ingin memberitahu,13626562.9,1,56.73070431,159.5301796,1,S1,0
 27.0,Laki-laki,PNS,7714355.155,1,63.00098256,167.6210556,1,SMA,1
 29.0,Laki-laki,PNS,3623299.683,1,43.12902818,161.25071,0,SMA,0
 5.0,Laki-laki,Freelance,6971968.783,0,53.10718998,153.8991928,1,S1,0
@@ -1282,7 +1282,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 22.0,Laki-laki,PNS,17911448.75,1,50.8984434,168.5127856,0,S2,0
 52.0,Laki-laki,Pegawai swasta,11585466.58,1,47.84537526,155.4920767,0,S1,1
 33.0,Perempuan,Pegawai swasta,12879017.83,1,47.28588207,158.0642917,0,SMA,1
-37.0,Laki-laki,Pengangguran,9322771.084,1,51.18253254,151.1933743,0,SMA,1
+37.0,Laki-laki,Tidak ingin memberitahu,9322771.084,1,51.18253254,151.1933743,0,SMA,1
 36.0,Perempuan,Pegawai swasta,12106403.01,1,45.38022937,155.7130083,0,S1,0
 34.0,Perempuan,PNS,6384195.727,1,65.98500762,161.0970638,0,S1,1
 53.0,Perempuan,Pegawai swasta,6435703.424,1,65.92345546,160.898807,0,SMA,1
@@ -1372,7 +1372,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 24.0,Laki-laki,Pegawai swasta,12841780.88,1,57.63207772,150.5016981,1,S1,0
 42.0,Perempuan,Pengangguran,8675718.748,1,57.66230394,161.803295,0,S1,0
 59.0,Laki-laki,Pegawai swasta,6640470.045,1,45.81596248,149.3024668,0,S1,1
-34.0,Laki-laki,Pengangguran,5223814.029,1,78.96367024,173.8954217,0,S1,0
+34.0,Laki-laki,Tidak ingin memberitahu,5223814.029,1,78.96367024,173.8954217,0,S1,0
 33.0,Laki-laki,Pegawai swasta,5754731.931,1,58.15524015,138.6914318,1,S1,1
 36.0,Laki-laki,PNS,7144313.797,1,53.86500298,165.9433342,1,SMA,1
 43.0,Laki-laki,Pegawai swasta,4280080.656,1,50.41653963,173.404806,0,S1,1
@@ -1380,7 +1380,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 47.0,Laki-laki,Pegawai swasta,15035754.45,1,57.05062905,168.8971041,1,SMP,1
 52.0,Perempuan,PNS,8612845.549,1,49.061642,185.279112,0,S1,1
 60.0,Laki-laki,PNS,9443141.566,1,48.43173277,171.7259736,0,S1,0
-31.0,Perempuan,Pengangguran,3275578.536,1,54.31278389,157.2265895,1,S1,1
+31.0,Perempuan,Tidak ingin memberitahu,3275578.536,1,54.31278389,157.2265895,1,S1,1
 26.0,Perempuan,PNS,7078447.327,1,58.22619779,176.032639,0,S1,1
 47.0,Laki-laki,PNS,7321267.035,1,53.49252337,169.4816288,1,SMP,1
 41.0,Laki-laki,PNS,3564366.898,1,67.85046883,165.4659661,1,S1,0
@@ -1391,7 +1391,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 37.0,Perempuan,PNS,10148292.38,1,51.38360374,167.6453726,0,SMP,1
 43.0,Perempuan,PNS,17713813.98,1,59.39361027,158.8712958,0,SMA,1
 43.0,Perempuan,PNS,8759917.349,1,68.34929757,177.200824,0,S1,0
-60.0,Laki-laki,Pengangguran,10686782.54,1,61.7065367,172.79278,0,S3,1
+60.0,Laki-laki,Tidak ingin memberitahu,10686782.54,1,61.7065367,172.79278,0,S3,1
 51.0,Laki-laki,Pegawai swasta,19654596.46,1,55.65800182,173.8055095,1,S2,0
 37.0,Laki-laki,PNS,10404570.58,1,48.19343416,148.9563764,0,S1,1
 69.0,Laki-laki,Pegawai swasta,4129247.123,1,54.93602074,167.0276808,0,S1,1
@@ -1461,7 +1461,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 26.0,Laki-laki,Freelance,8498806.478,1,49.81989219,178.1711283,1,S1,1
 19.0,Laki-laki,PNS,6940091.873,0,54.56148581,159.4613791,1,S1,1
 27.0,Perempuan,PNS,9586357.892,1,44.45984221,158.7786397,1,S1,1
-47.0,Perempuan,Pengangguran,7151741.115,1,51.65121586,165.7726484,0,SMA,0
+47.0,Perempuan,Tidak ingin memberitahu,7151741.115,1,51.65121586,165.7726484,0,SMA,0
 29.0,Laki-laki,PNS,9195905.208,1,50.5015626,154.9507678,1,SMA,1
 53.0,Laki-laki,Pegawai swasta,6712036.734,1,51.93752051,163.1020724,1,S1,1
 29.0,Laki-laki,Pegawai swasta,16291598.68,1,53.84164265,171.0697264,1,S1,1
@@ -1474,7 +1474,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 42.0,Laki-laki,PNS,6122863.108,1,47.42542062,173.2133061,1,S1,0
 46.0,Laki-laki,PNS,6668435.279,1,44.28390486,172.6468685,0,SMA,1
 29.0,Laki-laki,Freelance,8180501.351,1,48.6027164,144.9921486,1,S1,1
-34.0,Perempuan,Pengangguran,4433718.312,1,51.82838964,173.4019159,0,SMA,1
+34.0,Perempuan,Tidak ingin memberitahu,4433718.312,1,51.82838964,173.4019159,0,SMA,1
 40.0,Perempuan,Pegawai swasta,11315934.42,1,65.42291776,185.2625971,0,S1,1
 49.0,Perempuan,PNS,8796543.869,1,62.92156742,183.2223738,1,SMA,1
 38.0,Perempuan,Pengangguran,5664279.588,1,57.76202073,174.8871016,1,S1,1
@@ -1482,12 +1482,12 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 28.0,Laki-laki,Pegawai swasta,13910339.88,1,40.31961912,147.9709393,0,SMA,1
 45.0,Laki-laki,PNS,18207877.06,1,57.66930188,173.4916679,0,S1,1
 44.0,Laki-laki,Pegawai swasta,12537902.09,1,52.02421953,180.0397856,0,S1,0
-57.0,Laki-laki,Pengangguran,3495382.51,1,62.37463637,172.1142631,1,S1,0
-42.0,Perempuan,Pengangguran,9581637.005,1,51.7598791,163.2852857,0,S1,1
+57.0,Laki-laki,Tidak ingin memberitahu,3495382.51,1,62.37463637,172.1142631,1,S1,0
+42.0,Perempuan,Tidak ingin memberitahu,9581637.005,1,51.7598791,163.2852857,0,S1,1
 66.0,Laki-laki,PNS,8819858.746,1,66.41320784,177.977837,0,S1,1
 26.0,Perempuan,Pegawai swasta,8154810.113,1,66.57856443,159.4770259,0,S1,1
 34.0,Laki-laki,PNS,13837596.85,1,55.25241915,148.0989071,1,S1,1
-36.0,Laki-laki,Pengangguran,9079970.039,1,46.64502018,171.4251049,0,SMA,0
+36.0,Laki-laki,Tidak ingin memberitahu,9079970.039,1,46.64502018,171.4251049,0,SMA,0
 34.0,Laki-laki,PNS,10009450.29,1,56.56015286,162.0691177,1,S2,0
 24.0,Laki-laki,Pegawai swasta,12258667.36,1,49.29605639,156.2044806,0,S3,0
 36.0,Perempuan,Pegawai swasta,5468350.644,1,72.74580285,172.608637,1,S1,1
@@ -1527,7 +1527,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 41.0,Laki-laki,Freelance,5906177.02,1,47.08801702,162.8329318,0,SMA,1
 39.0,Laki-laki,PNS,4448756.177,1,50.49390149,170.4448458,1,S1,1
 58.0,Laki-laki,PNS,8944567.485,1,64.70831035,179.1501227,0,S2,1
-40.0,Laki-laki,Pengangguran,6234646.019,1,68.82792788,170.9509094,0,SMA,1
+40.0,Laki-laki,Tidak ingin memberitahu,6234646.019,1,68.82792788,170.9509094,0,SMA,1
 53.0,Perempuan,PNS,12250389.34,1,54.92507264,164.5786883,0,S1,1
 47.0,Laki-laki,PNS,5220132.832,1,47.03756396,174.8432572,0,S1,0
 37.0,Perempuan,PNS,14277875.78,1,82.69219174,178.8594712,0,S1,1
@@ -1593,7 +1593,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 23.0,Laki-laki,PNS,17197747.76,1,57.71910253,154.7097251,1,S2,0
 33.0,Perempuan,PNS,8274759.262,1,58.38715579,155.5138422,0,S1,1
 39.0,Perempuan,Freelance,4954940.561,1,54.34395322,176.805073,1,S1,1
-34.0,Perempuan,Pengangguran,7365542.242,1,65.54784516,173.8961143,1,S1,0
+34.0,Perempuan,Tidak ingin memberitahu,7365542.242,1,65.54784516,173.8961143,1,S1,0
 34.0,Laki-laki,Pengangguran,11159720.64,1,47.85169139,180.0577534,0,SD,1
 50.0,Laki-laki,Pegawai swasta,10632254.22,1,50.75043407,158.8057111,0,S1,0
 40.0,Laki-laki,PNS,7575395.786,1,43.77950095,148.0041589,1,S2,0
@@ -1601,7 +1601,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 43.0,Laki-laki,PNS,5364269.71,1,51.6964456,161.5897384,1,S1,0
 23.0,Laki-laki,Pengangguran,9093053.102,1,48.30816574,165.2943896,1,S1,0
 48.0,Laki-laki,Pegawai swasta,12713211.27,1,46.91590139,158.4434191,0,S1,0
-20.0,Perempuan,Pengangguran,7473890.021,1,50.28501451,193.2774513,0,S1,1
+20.0,Perempuan,Tidak ingin memberitahu,7473890.021,1,50.28501451,193.2774513,0,S1,1
 40.0,Perempuan,Pegawai swasta,13877079.72,1,62.56329488,177.7536948,0,S1,1
 39.0,Laki-laki,Freelance,9632757.462,1,52.13477863,165.5131269,0,SMA,0
 47.0,Laki-laki,Pegawai swasta,4221180.86,1,65.8216517,170.3816179,1,SMA,1
@@ -1688,7 +1688,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 33.0,Laki-laki,Pegawai swasta,14697285.04,1,50.13784447,187.4608919,1,S1,1
 41.0,Laki-laki,Pegawai swasta,9132503.15,1,57.47562812,167.3107035,1,S1,0
 25.0,Laki-laki,PNS,6184294.128,1,54.55498571,163.7266138,0,S1,1
-50.0,Laki-laki,Pengangguran,7038353.73,1,50.10869985,169.6753515,0,S1,0
+50.0,Laki-laki,Tidak ingin memberitahu,7038353.73,1,50.10869985,169.6753515,0,S1,0
 30.0,Perempuan,Pegawai swasta,9248574.007,1,55.25933873,161.3845466,1,SMA,0
 34.0,Laki-laki,Pegawai swasta,6668394.51,1,60.88413672,175.4002013,1,S1,1
 37.0,Perempuan,Pegawai swasta,8676417.967,1,43.36874225,155.8805192,1,S1,1
@@ -1879,13 +1879,13 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 65.0,Laki-laki,Freelance,8397685.14,1,65.1320887,165.6880812,1,SMA,1
 33.0,Laki-laki,PNS,4188028.43,1,47.93871283,157.0749331,1,S1,1
 54.0,Perempuan,Freelance,16536022.56,1,52.18687721,157.4350511,1,S1,1
-35.0,Perempuan,Pengangguran,7466695.893,1,49.23349418,175.0316302,0,S1,1
+35.0,Perempuan,Tidak ingin memberitahu,7466695.893,1,49.23349418,175.0316302,0,S1,1
 35.0,Laki-laki,Pegawai swasta,5282332.641,1,52.78262832,159.3013159,1,S1,0
 41.0,Laki-laki,Pegawai swasta,11617165.51,1,51.03521208,142.74726,0,SMA,1
 58.0,Laki-laki,PNS,17691622.62,1,81.03628653,183.0541496,1,S1,1
 44.0,Laki-laki,PNS,10617341.65,1,63.33715409,164.2220224,0,S1,1
 52.0,Laki-laki,PNS,11169255.46,1,64.63806891,170.9092106,0,SMA,1
-31.0,Laki-laki,Pengangguran,7948236.913,1,52.06858726,151.5813291,0,S1,1
+31.0,Laki-laki,Tidak ingin memberitahu,7948236.913,1,52.06858726,151.5813291,0,S1,1
 45.0,Perempuan,Pegawai swasta,9825320.922,1,59.72037414,180.7580278,1,S1,1
 31.0,Laki-laki,PNS,3492922.667,1,48.87281134,156.9261688,1,S1,1
 22.0,Laki-laki,PNS,5020735.487,1,48.27338309,157.1322653,1,S1,0
@@ -2013,7 +2013,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 33.0,Laki-laki,PNS,12928566.61,1,63.08791389,180.3747438,0,S1,1
 49.0,Laki-laki,Pegawai swasta,9925864.224,1,66.7243535,175.4656445,0,SMA,1
 44.0,Laki-laki,Freelance,6513886.138,1,61.89893804,164.6080434,1,SMA,0
-47.0,Laki-laki,Pengangguran,12205961.39,1,75.3254812,170.7927482,0,S1,1
+47.0,Laki-laki,Tidak ingin memberitahu,12205961.39,1,75.3254812,170.7927482,0,S1,1
 27.0,Laki-laki,Freelance,10521986.92,1,57.98269162,153.0754775,0,S1,0
 45.0,Laki-laki,Freelance,13157184.71,1,48.7390721,155.4821332,0,SMP,0
 42.0,Laki-laki,Pegawai swasta,10079800.83,1,53.90992479,158.2404671,0,SMA,0
@@ -2060,9 +2060,9 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 36.0,Laki-laki,Pengangguran,7074917.71,1,47.88491638,152.5036825,0,SMP,0
 38.0,Laki-laki,PNS,5750106.077,1,65.59059187,175.7882605,0,S1,0
 49.0,Laki-laki,PNS,4854941.603,1,58.00784553,158.0274475,0,S2,1
-38.0,Laki-laki,Pengangguran,9206302.946,1,44.65071245,160.3555915,0,SMA,1
-48.0,Laki-laki,Pengangguran,10759156.01,1,63.46740378,149.3399376,0,S1,0
-43.0,Laki-laki,Pengangguran,7080036.87,1,58.12190647,176.1598607,0,S1,1
+38.0,Laki-laki,Tidak ingin memberitahu,9206302.946,1,44.65071245,160.3555915,0,SMA,1
+48.0,Laki-laki,Tidak ingin memberitahu,10759156.01,1,63.46740378,149.3399376,0,S1,0
+43.0,Laki-laki,Tidak ingin memberitahu,7080036.87,1,58.12190647,176.1598607,0,S1,1
 39.0,Laki-laki,PNS,11339061.27,1,44.82076703,159.6942825,0,S1,0
 41.0,Laki-laki,Freelance,13634863.53,1,47.11596722,168.7182444,1,SMA,1
 56.0,Perempuan,PNS,24107978.2,1,48.31945759,163.8817815,1,SMP,0
@@ -2199,7 +2199,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 38.0,Laki-laki,Pengangguran,8978590.632,1,50.78751251,163.9984236,1,S1,1
 43.0,Perempuan,Freelance,24369712.24,1,56.82098555,164.8693254,1,S2,1
 54.0,Perempuan,PNS,8204492.685,1,59.37206597,166.9709618,0,S1,0
-38.0,Laki-laki,Pengangguran,5311138.321,1,65.41224695,182.8187852,1,SMP,1
+38.0,Laki-laki,Tidak ingin memberitahu,5311138.321,1,65.41224695,182.8187852,1,SMP,1
 34.0,Laki-laki,Pegawai swasta,11820432.31,1,52.97544819,165.1274075,0,S1,1
 35.0,Laki-laki,PNS,9518502.066,1,50.47946577,175.6477739,1,SMP,1
 38.0,Laki-laki,PNS,12582137.27,1,66.79987492,166.6600708,1,SMA,0
@@ -2325,7 +2325,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 47.0,Laki-laki,PNS,7065585.722,1,50.88664634,171.4542826,1,SMA,1
 50.0,Laki-laki,Pegawai swasta,7184760.3,1,50.96688124,171.336568,1,S2,1
 35.0,Perempuan,Pegawai swasta,6467911.298,1,53.69498532,166.8383232,0,S2,1
-36.0,Perempuan,Pengangguran,12683355.13,1,71.31563877,174.6912077,1,S2,1
+36.0,Perempuan,Tidak ingin memberitahu,12683355.13,1,71.31563877,174.6912077,1,S2,1
 37.0,Laki-laki,Freelance,11350913.64,1,46.64329243,152.4391755,0,SMP,1
 38.0,Perempuan,Pegawai swasta,4702483.64,1,60.87843071,160.6131499,1,SMA,1
 47.0,Laki-laki,Freelance,14719001.37,1,58.32781221,176.9349381,1,S1,0
@@ -2386,7 +2386,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 23.0,Perempuan,PNS,6928797.444,1,51.36469626,168.5643488,0,SMP,1
 51.0,Laki-laki,Pengangguran,5373847.629,1,53.65625047,160.7076764,0,S1,1
 22.0,Perempuan,Pegawai swasta,8304743.22,1,77.37233836,173.6759052,0,S1,0
-24.0,Laki-laki,Pengangguran,3947513.211,1,47.36088369,161.4599548,1,SMA,1
+24.0,Laki-laki,Tidak ingin memberitahu,3947513.211,1,47.36088369,161.4599548,1,SMA,1
 45.0,Laki-laki,Pegawai swasta,15617619.69,1,43.86501175,164.7320238,0,S1,1
 61.0,Laki-laki,Pengangguran,4952694.261,1,83.605897,180.3931538,1,SMA,1
 39.0,Laki-laki,Pegawai swasta,3701076.99,1,73.48383441,168.4376602,1,SMA,1
@@ -2398,7 +2398,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 48.0,Laki-laki,Freelance,7366702.448,1,58.28236971,164.7271059,1,S1,1
 36.0,Laki-laki,Freelance,15913622.31,1,50.27147957,165.8422756,0,SMA,0
 52.0,Laki-laki,Pengangguran,16749369.43,1,62.22534835,150.9544273,0,SMA,1
-41.0,Perempuan,Pengangguran,5183778.272,1,57.64198851,157.4966246,0,S1,1
+41.0,Perempuan,Tidak ingin memberitahu,5183778.272,1,57.64198851,157.4966246,0,S1,1
 37.0,Laki-laki,Pegawai swasta,11481452.27,1,59.71492343,182.072327,0,S1,1
 33.0,Perempuan,Pegawai swasta,8003385.324,1,73.45375165,182.3178346,1,S1,1
 45.0,Perempuan,PNS,16650093.68,1,54.34620038,160.732493,1,SMA,0
@@ -2451,7 +2451,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 36.0,Perempuan,PNS,7103773.534,1,61.50014577,185.9505296,0,SMA,1
 35.0,Perempuan,Freelance,6299877.901,1,52.94955002,171.5886587,0,S1,0
 47.0,Laki-laki,PNS,8277649.287,1,65.19736018,151.0314224,0,S1,1
-24.0,Laki-laki,Pengangguran,8853238.893,1,66.48001678,168.7396431,0,S1,1
+24.0,Laki-laki,Tidak ingin memberitahu,8853238.893,1,66.48001678,168.7396431,0,S1,1
 27.0,Perempuan,PNS,11513618.45,1,47.28689791,159.4106275,0,S1,1
 41.0,Laki-laki,PNS,21028992.52,1,46.587263,158.2179191,1,SMA,1
 54.0,Perempuan,Pegawai swasta,6504051.286,1,66.31017486,164.5446793,1,SMA,1
@@ -2486,7 +2486,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 43.0,Laki-laki,PNS,8011217.171,1,47.35765923,150.1627572,1,SMA,0
 36.0,Laki-laki,Pegawai swasta,10382004.01,1,47.61221632,161.3088026,0,S1,0
 36.0,Perempuan,Pengangguran,7675683.798,1,50.5085163,170.744189,0,SMA,1
-34.0,Laki-laki,Pengangguran,6524462.526,1,59.26035721,190.0649286,0,SMA,1
+34.0,Laki-laki,Tidak ingin memberitahu,6524462.526,1,59.26035721,190.0649286,0,SMA,1
 30.0,Laki-laki,Pegawai swasta,3892882.605,1,55.23279335,173.4686739,0,SD,1
 24.0,Laki-laki,Pegawai swasta,7541293.689,1,77.48012014,171.5455259,1,S1,1
 32.0,Laki-laki,Pegawai swasta,9378373.044,1,53.38862292,173.0062482,1,S1,1
@@ -2581,7 +2581,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 65.0,Laki-laki,Pegawai swasta,7974420.771,1,50.09086812,168.4164191,1,S1,0
 30.0,Laki-laki,Pegawai swasta,21464403.33,1,60.69512359,151.455444,0,S1,1
 46.0,Laki-laki,Freelance,4311359.961,1,51.27731327,167.2764464,0,S1,0
-39.0,Laki-laki,Pengangguran,12392810.38,1,50.59138721,164.9889856,0,SMA,1
+39.0,Laki-laki,Tidak ingin memberitahu,12392810.38,1,50.59138721,164.9889856,0,SMA,1
 40.0,Perempuan,PNS,9513415.78,1,53.87067885,174.5977758,0,S1,1
 49.0,Laki-laki,PNS,15752514.88,1,63.48194537,174.8575472,1,SMA,0
 25.0,Laki-laki,Freelance,4390317.312,1,52.19787409,165.0427362,1,S1,1
@@ -2620,7 +2620,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 39.0,Laki-laki,Pegawai swasta,7758850.124,1,50.3835895,169.3066063,0,SMP,0
 43.0,Laki-laki,Pegawai swasta,15509731.6,1,55.09857666,147.8061803,0,S1,1
 39.0,Perempuan,Pegawai swasta,15530465.39,1,62.49804399,162.0796648,1,S1,0
-46.0,Laki-laki,Pengangguran,5452544.54,1,47.51015782,160.2810975,0,S1,1
+46.0,Laki-laki,Tidak ingin memberitahu,5452544.54,1,47.51015782,160.2810975,0,S1,1
 42.0,Laki-laki,Pegawai swasta,5661055.39,1,75.93851484,151.5931938,0,S1,1
 48.0,Laki-laki,PNS,9456590.77,1,67.95856236,171.4007093,0,S1,0
 27.0,Laki-laki,PNS,12416866.86,1,45.48894044,161.3713277,1,SMP,1
@@ -2691,7 +2691,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 35.0,Perempuan,Freelance,5946100.455,1,58.17468431,175.8498928,0,S2,1
 60.0,Perempuan,Pegawai swasta,4405665.038,1,48.87992923,158.5142782,1,SMA,1
 39.0,Laki-laki,PNS,3971860.133,1,56.49218622,176.6073868,1,S2,1
-35.0,Perempuan,Pengangguran,9648302.977,1,56.944035,164.8475297,0,S2,1
+35.0,Perempuan,Tidak ingin memberitahu,9648302.977,1,56.944035,164.8475297,0,S2,1
 42.0,Laki-laki,PNS,11068014.39,1,50.65706569,163.9426949,1,SMA,1
 40.0,Perempuan,PNS,17575886.24,1,54.9590989,183.5709723,1,SMA,0
 24.0,Perempuan,Freelance,5849862.3,1,66.06733564,191.8575223,0,SMA,0
@@ -2721,7 +2721,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 38.0,Perempuan,Pegawai swasta,7257463.356,1,81.14601666,181.8941213,0,SMA,1
 48.0,Laki-laki,Pegawai swasta,12322817.22,1,46.56505756,165.0101345,0,S1,1
 47.0,Perempuan,Pegawai swasta,6181815.837,1,49.62620661,180.7499901,0,S1,1
-50.0,Laki-laki,Pengangguran,9344289.552,1,54.63007093,166.0141315,1,S1,0
+50.0,Laki-laki,Tidak ingin memberitahu,9344289.552,1,54.63007093,166.0141315,1,S1,0
 35.0,Perempuan,Pegawai swasta,5990382.668,1,49.62777456,143.0467935,1,S1,1
 28.0,Perempuan,Pegawai swasta,7566647.894,1,48.33048739,162.3200405,1,S1,1
 60.0,Laki-laki,Freelance,5398465.781,1,50.48286779,180.8102439,1,S1,1
@@ -2744,7 +2744,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 31.0,Perempuan,Freelance,5621845.699,1,63.24079159,150.2776047,1,S1,1
 47.0,Laki-laki,Freelance,15985779.07,1,63.02656915,165.8677167,1,S1,1
 40.0,Laki-laki,PNS,11335978.06,1,63.03721513,189.2108428,1,SMA,1
-45.0,Perempuan,Pengangguran,5624881.066,1,43.15729532,148.7950969,0,SMA,1
+45.0,Perempuan,Tidak ingin memberitahu,5624881.066,1,43.15729532,148.7950969,0,SMA,1
 43.0,Perempuan,PNS,3394082.799,1,51.30797383,166.3791869,0,S1,1
 40.0,Laki-laki,PNS,10132191.36,1,50.53660484,160.7269666,0,S1,0
 34.0,Laki-laki,PNS,5863543.041,1,46.23697422,160.8914718,0,S1,1
@@ -2906,8 +2906,8 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 38.0,Laki-laki,Freelance,22822920.14,1,57.48188253,174.1424761,1,S2,1
 31.0,Laki-laki,Freelance,8323676.367,1,45.90062187,179.1383361,0,SMA,1
 45.0,Laki-laki,PNS,3847911.556,1,49.60678572,165.3357799,0,S2,1
-46.0,Laki-laki,Pengangguran,15529612.81,1,76.6638197,182.3230878,1,SMA,1
-48.0,Laki-laki,Pengangguran,5685741.622,1,51.45949848,156.5667567,0,SMA,0
+46.0,Laki-laki,Tidak ingin memberitahu,15529612.81,1,76.6638197,182.3230878,1,SMA,1
+48.0,Laki-laki,Tidak ingin memberitahu,5685741.622,1,51.45949848,156.5667567,0,SMA,0
 48.0,Laki-laki,Pengangguran,19368030.84,1,54.01924659,193.3484392,1,S1,1
 48.0,Laki-laki,Pegawai swasta,3835489.427,1,51.48576477,168.3385021,0,S1,0
 42.0,Laki-laki,PNS,26281887.67,1,51.64286778,161.6770104,1,SD,0
@@ -3238,7 +3238,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 32.0,Laki-laki,Pegawai swasta,6898291.429,1,49.80176736,148.7752814,1,SMA,0
 50.0,Laki-laki,Freelance,10416663.68,1,49.38446786,159.9579932,0,S1,0
 38.0,Laki-laki,Freelance,7293200.931,1,59.10330092,154.6057883,1,S1,1
-40.0,Laki-laki,Pengangguran,11431989.86,1,49.64025484,165.7247807,0,S3,0
+40.0,Laki-laki,Tidak ingin memberitahu,11431989.86,1,49.64025484,165.7247807,0,S3,0
 46.0,Laki-laki,PNS,8578608.358,1,54.08316128,175.4998281,0,S1,1
 23.0,Perempuan,Pegawai swasta,5468121.156,1,54.03399342,177.7061921,0,S1,1
 26.0,Perempuan,PNS,20648984.77,1,58.56078782,160.8010067,0,SMA,1
@@ -3293,7 +3293,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 36.0,Laki-laki,PNS,6435542.12,1,68.49292384,176.2044729,0,S1,1
 56.0,Laki-laki,PNS,9577834.799,1,44.87717091,139.2307347,0,S1,1
 15.0,Laki-laki,Pegawai swasta,7783163.525,0,73.18287774,177.6324205,0,S1,1
-37.0,Laki-laki,Pengangguran,4640634.483,1,54.17075729,154.3569148,1,SMA,1
+37.0,Laki-laki,Tidak ingin memberitahu,4640634.483,1,54.17075729,154.3569148,1,SMA,1
 27.0,Laki-laki,Freelance,9768926.057,1,51.56045111,151.5646521,1,S3,0
 43.0,Laki-laki,PNS,10465157.33,1,46.68245528,169.0812372,1,S2,0
 47.0,Laki-laki,Pegawai swasta,6713149.174,1,59.538914,162.8824745,1,SMA,1
@@ -3321,7 +3321,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 29.0,Laki-laki,Pegawai swasta,14469803.57,1,49.31022365,171.5623588,0,SMA,1
 27.0,Laki-laki,Pegawai swasta,8801232.231,1,69.38898858,192.6955267,0,S1,1
 42.0,Laki-laki,Pegawai swasta,4799267.621,1,50.27474059,148.8341931,0,S1,0
-37.0,Laki-laki,Pengangguran,3722680.191,1,47.56281731,167.2251627,0,SMA,0
+37.0,Laki-laki,Tidak ingin memberitahu,3722680.191,1,47.56281731,167.2251627,0,SMA,0
 48.0,Laki-laki,PNS,14386324.34,1,54.28355034,183.2601112,0,S2,1
 37.0,Laki-laki,Freelance,7012504.316,1,56.62164866,160.3771994,1,SMP,0
 40.0,Perempuan,PNS,9795855.303,1,46.07993533,166.1217676,0,S1,0
@@ -3329,7 +3329,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 47.0,Perempuan,PNS,5398842.305,1,56.75358519,172.1422165,0,SMA,1
 21.0,Laki-laki,PNS,13285586.64,1,71.26532193,181.3917982,1,S1,1
 40.0,Laki-laki,Pegawai swasta,6159369.46,1,47.23372336,140.8590237,0,S1,1
-55.0,Laki-laki,Pengangguran,6563035.71,1,51.88668314,177.3268281,0,S1,1
+55.0,Laki-laki,Tidak ingin memberitahu,6563035.71,1,51.88668314,177.3268281,0,S1,1
 51.0,Laki-laki,PNS,3445753.249,1,52.9965477,162.4439806,1,SMA,1
 36.0,Laki-laki,Freelance,12068124.85,1,51.80960344,162.2477893,0,S1,0
 19.0,Laki-laki,PNS,9459946.319,0,58.73515829,177.2564866,0,SMA,1
@@ -3374,7 +3374,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 33.0,Laki-laki,PNS,7000189.384,1,54.19782026,180.8106407,0,S1,0
 38.0,Perempuan,Pegawai swasta,6875523.562,1,66.05525994,163.7809567,0,SMA,1
 74.0,Perempuan,Pegawai swasta,7043633.899,1,57.70553563,168.0036021,1,SMA,1
-46.0,Laki-laki,Pengangguran,8631263.637,1,46.05344125,163.4802625,0,SMA,1
+46.0,Laki-laki,Tidak ingin memberitahu,8631263.637,1,46.05344125,163.4802625,0,SMA,1
 24.0,Laki-laki,PNS,7986805.033,1,45.96156114,151.9751323,0,S1,0
 40.0,Laki-laki,Pegawai swasta,4968844.872,1,56.77735055,168.2875188,1,SMA,0
 33.0,Perempuan,Freelance,2490738.909,1,66.24461756,164.2501976,1,S2,1
@@ -3383,7 +3383,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 28.0,Perempuan,Pegawai swasta,13949078.81,1,63.868483,159.4633357,1,S1,1
 20.0,Laki-laki,Pegawai swasta,7105419.6,1,67.88917429,166.2717268,1,SMP,1
 50.0,Laki-laki,Pegawai swasta,9806252.14,1,59.37279549,197.3113387,1,S1,1
-49.0,Laki-laki,Pengangguran,5463159.51,1,47.45491264,164.6067265,0,S1,1
+49.0,Laki-laki,Tidak ingin memberitahu,5463159.51,1,47.45491264,164.6067265,0,S1,1
 50.0,Laki-laki,PNS,5756171.282,1,43.7076678,155.5675887,0,SMA,1
 22.0,Perempuan,PNS,6161934.639,1,51.51758934,177.3085201,1,S2,1
 49.0,Laki-laki,PNS,3385182.614,1,46.48264804,178.1910564,1,S1,1
@@ -3471,7 +3471,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 44.0,Laki-laki,PNS,4528034.821,1,54.8576125,159.1085512,1,S1,1
 24.0,Laki-laki,Pegawai swasta,18886067.79,1,52.91172596,161.4374059,1,S3,1
 10.0,Laki-laki,Freelance,12627099.85,0,55.93933366,173.5865976,1,SMP,1
-45.0,Laki-laki,Pengangguran,6146203.54,1,55.26076682,166.3581637,0,S1,1
+45.0,Laki-laki,Tidak ingin memberitahu,6146203.54,1,55.26076682,166.3581637,0,S1,1
 39.0,Perempuan,Pegawai swasta,4921499.339,1,65.6218765,164.3829869,0,SMA,1
 31.0,Laki-laki,Freelance,6541041.756,1,48.68571638,162.4171396,1,S1,1
 46.0,Laki-laki,Pegawai swasta,4291520.383,1,46.65592969,166.8200453,1,S1,0
@@ -3493,23 +3493,23 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 51.0,Laki-laki,Pegawai swasta,6432002.747,1,54.06938386,158.2139562,0,S1,1
 64.0,Laki-laki,Pegawai swasta,4286027.79,1,52.91301336,152.7294601,1,SMA,1
 20.0,Laki-laki,PNS,6195197.751,1,68.58946532,175.8124707,1,S1,1
-43.0,Laki-laki,Pengangguran,9763689.405,1,59.78479379,171.2751333,1,SMA,0
+43.0,Laki-laki,Tidak ingin memberitahu,9763689.405,1,59.78479379,171.2751333,1,SMA,0
 41.0,Laki-laki,PNS,7477524.101,1,68.16637463,183.6843015,1,S1,0
 41.0,Perempuan,Pegawai swasta,7573143.618,1,51.36826684,170.9529644,1,S2,0
 45.0,Perempuan,PNS,5894523.929,1,51.64341487,135.2861609,1,S1,0
 35.0,Perempuan,PNS,3427426.944,1,45.41099852,146.3830045,1,S1,1
 46.0,Laki-laki,Pegawai swasta,4337351.155,1,48.13390972,162.8458782,1,S1,1
 32.0,Perempuan,PNS,2872367.277,1,45.19817617,170.373784,1,S1,1
-43.0,Laki-laki,Pengangguran,4672967.269,1,48.08687744,153.576825,1,S1,0
+43.0,Laki-laki,Tidak ingin memberitahu,4672967.269,1,48.08687744,153.576825,1,S1,0
 54.0,Laki-laki,Freelance,3665936.247,1,65.07827169,168.9735456,1,S1,0
 49.0,Perempuan,Freelance,11743339.84,1,44.8513727,162.2927893,1,SMA,1
 48.0,Perempuan,PNS,6867866.58,1,48.48400459,159.5918562,0,S1,1
 46.0,Perempuan,Freelance,10000595.17,1,63.09474946,150.499275,1,S1,1
 23.0,Laki-laki,PNS,6982707.402,1,50.26079927,175.2805637,0,S1,1
-40.0,Perempuan,Pengangguran,14228858.68,1,48.77354799,161.5006462,1,SMA,1
+40.0,Perempuan,Tidak ingin memberitahu,14228858.68,1,48.77354799,161.5006462,1,SMA,1
 42.0,Laki-laki,Freelance,8346707.909,1,47.58333177,161.848823,1,S1,1
 37.0,Laki-laki,Pegawai swasta,7057601.395,1,55.26318803,160.1545884,0,S1,0
-39.0,Laki-laki,Pengangguran,7752537.346,1,49.50983132,149.6646158,1,S1,1
+39.0,Laki-laki,Tidak ingin memberitahu,7752537.346,1,49.50983132,149.6646158,1,S1,1
 44.0,Laki-laki,Pegawai swasta,14357881.37,1,52.34549464,184.5794597,1,S1,0
 23.0,Perempuan,PNS,13600714.66,1,52.55373772,173.3515245,0,SMP,1
 58.0,Laki-laki,PNS,13270585.2,1,50.53376963,156.3884529,0,S1,0
@@ -3633,7 +3633,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 33.0,Laki-laki,PNS,10250397.03,1,48.41024708,148.2253633,0,S1,0
 51.0,Perempuan,Freelance,19745275.55,1,44.68238371,148.6368175,1,SMP,1
 55.0,Perempuan,Freelance,5507693.845,1,47.17674381,151.8351897,1,S2,1
-46.0,Perempuan,Pengangguran,6544923.862,1,65.5292959,178.8411196,0,SMP,0
+46.0,Perempuan,Tidak ingin memberitahu,6544923.862,1,65.5292959,178.8411196,0,SMP,0
 45.0,Laki-laki,PNS,13979200.8,1,46.28546249,161.2886291,0,S2,1
 42.0,Laki-laki,PNS,3973053.666,1,48.58689689,167.0561061,0,SMA,1
 46.0,Perempuan,Pegawai swasta,3353078.665,1,42.31245981,153.7316758,0,SMA,1
@@ -3679,7 +3679,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 38.0,Perempuan,Freelance,10468051.02,1,61.97488228,163.2108296,0,S1,1
 52.0,Perempuan,Pegawai swasta,12604604.98,1,54.7419527,156.4634617,0,S2,1
 37.0,Perempuan,Pegawai swasta,4788734.067,1,56.28533752,177.1835674,0,S1,0
-37.0,Perempuan,Pengangguran,5113475.725,1,46.459363,156.8412051,1,S1,1
+37.0,Perempuan,Tidak ingin memberitahu,5113475.725,1,46.459363,156.8412051,1,S1,1
 27.0,Laki-laki,Pegawai swasta,10991105.13,1,49.75208784,142.9409008,0,S1,0
 30.0,Laki-laki,Freelance,13848459.59,1,59.245948,180.2890849,1,S1,1
 41.0,Laki-laki,Freelance,6474562.457,1,52.46113361,179.4559999,1,SMA,1
@@ -3747,7 +3747,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 53.0,Perempuan,PNS,18487034.88,1,53.15027502,149.463709,0,S1,0
 40.0,Laki-laki,PNS,7410296.14,1,51.83769056,169.2609684,1,S1,0
 48.0,Perempuan,PNS,5256471.701,1,49.79812831,160.7162529,0,SMP,1
-34.0,Laki-laki,Pengangguran,9878401.825,1,74.23449072,179.6921176,1,S1,1
+34.0,Laki-laki,Tidak ingin memberitahu,9878401.825,1,74.23449072,179.6921176,1,S1,1
 14.0,Laki-laki,PNS,7425036.165,0,53.40265759,182.4657386,1,SMA,1
 43.0,Laki-laki,Pegawai swasta,7495176.425,1,57.81711473,186.8012003,1,SMA,1
 46.0,Laki-laki,Pegawai swasta,8607985.256,1,57.6436791,182.1659578,1,SD,1
@@ -3810,7 +3810,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 53.0,Laki-laki,Pegawai swasta,3031702.472,1,45.71922338,154.8772542,0,SMA,1
 32.0,Perempuan,Freelance,8308318.554,1,46.58575947,162.4669299,1,SMA,1
 63.0,Perempuan,Pegawai swasta,5782207.282,1,47.62554938,159.8373616,0,S1,1
-42.0,Laki-laki,Pengangguran,6072155.86,1,55.58746096,179.0469508,1,SD,1
+42.0,Laki-laki,Tidak ingin memberitahu,6072155.86,1,55.58746096,179.0469508,1,SD,1
 55.0,Perempuan,Freelance,4340419.967,1,48.20925781,149.6949817,1,S2,1
 53.0,Laki-laki,PNS,6876727.913,1,68.59844701,188.1653472,1,S1,0
 23.0,Perempuan,PNS,3357681.647,1,88.03903277,168.9552449,1,S1,0
@@ -3830,7 +3830,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 45.0,Laki-laki,Freelance,5403592.877,1,46.14158213,154.1813895,0,S1,1
 44.0,Laki-laki,Pegawai swasta,9200943.742,1,64.66606697,155.4751141,0,S1,1
 34.0,Laki-laki,PNS,6931690.265,1,60.07203218,159.7821219,1,S2,1
-39.0,Laki-laki,Pengangguran,3128114.82,1,59.0208503,165.4239313,0,S1,1
+39.0,Laki-laki,Tidak ingin memberitahu,3128114.82,1,59.0208503,165.4239313,0,S1,1
 39.0,Laki-laki,Freelance,6456511.034,1,83.00295872,182.1262982,0,S1,1
 30.0,Laki-laki,Pegawai swasta,12727020.3,1,54.0473079,155.8896585,0,S2,1
 49.0,Perempuan,Pegawai swasta,10069138.52,1,57.59170945,159.2882403,1,S2,1
@@ -3927,7 +3927,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 46.0,Laki-laki,Pegawai swasta,10131611.33,1,44.72123379,152.2597691,0,S2,1
 51.0,Laki-laki,Pegawai swasta,13806564.28,1,52.56587577,163.847741,0,S1,0
 47.0,Laki-laki,Pegawai swasta,6297802.508,1,62.73186409,186.2862837,1,S2,1
-33.0,Perempuan,Pengangguran,9597153.474,1,50.43823655,170.6108262,1,S1,0
+33.0,Perempuan,Tidak ingin memberitahu,9597153.474,1,50.43823655,170.6108262,1,S1,0
 20.0,Perempuan,Pegawai swasta,8598730.813,1,51.80417992,157.0623411,1,SMA,0
 42.0,Perempuan,Pegawai swasta,12392568.81,1,53.07542353,151.3989736,1,S1,1
 11.0,Laki-laki,PNS,5218778.876,0,52.50410486,174.1676906,1,SMP,1
@@ -4136,8 +4136,8 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 29.0,Perempuan,PNS,4683678.362,1,47.62386973,164.4943123,0,S2,0
 55.0,Perempuan,Pegawai swasta,7606215.936,1,45.73373008,180.0006038,1,SMA,1
 44.0,Perempuan,Pegawai swasta,11524933.95,1,46.75823698,163.2007116,1,S1,1
-34.0,Laki-laki,Pengangguran,7747088.721,1,64.22446339,189.9658988,1,SMA,1
-41.0,Laki-laki,Pengangguran,5441373.588,1,53.75348382,155.236753,0,SMA,0
+34.0,Laki-laki,Tidak ingin memberitahu,7747088.721,1,64.22446339,189.9658988,1,SMA,1
+41.0,Laki-laki,Tidak ingin memberitahu,5441373.588,1,53.75348382,155.236753,0,SMA,0
 44.0,Perempuan,PNS,6691732.613,1,62.70812115,189.0533689,1,SMA,1
 41.0,Laki-laki,Pegawai swasta,4370244.393,1,62.01018916,159.8978726,1,S1,0
 41.0,Laki-laki,Freelance,7727294.515,1,60.79123894,149.9686477,0,SMA,0
@@ -4175,12 +4175,12 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 29.0,Laki-laki,Pegawai swasta,2868876.499,1,54.52235159,183.3941788,1,S1,1
 32.0,Laki-laki,Freelance,6266735.358,1,59.05581495,180.7195568,0,S1,0
 47.0,Laki-laki,PNS,9844950.408,1,45.30625513,168.255343,0,S1,0
-56.0,Laki-laki,Pengangguran,7618493.392,1,46.81938513,155.5862776,0,S1,1
+56.0,Laki-laki,Tidak ingin memberitahu,7618493.392,1,46.81938513,155.5862776,0,S1,1
 43.0,Laki-laki,Pegawai swasta,3420936.319,1,83.03859923,175.5917399,0,SMP,0
 45.0,Laki-laki,Pegawai swasta,15519895.98,1,58.43145703,156.6557025,1,SMA,1
 40.0,Laki-laki,Freelance,9155367.06,1,51.72071789,163.2475493,0,SMA,1
 41.0,Perempuan,Pegawai swasta,15434303.66,1,63.28862588,154.0603008,0,S1,0
-39.0,Laki-laki,Pengangguran,3938284.153,1,46.33023368,192.8894486,1,S1,1
+39.0,Laki-laki,Tidak ingin memberitahu,3938284.153,1,46.33023368,192.8894486,1,S1,1
 25.0,Laki-laki,Freelance,8922103.095,1,93.71520877,184.0735853,1,SD,1
 28.0,Laki-laki,Pegawai swasta,10871139.2,1,55.18776302,170.9321492,1,SMA,0
 45.0,Laki-laki,PNS,10884737.43,1,58.39246039,165.6790947,0,S1,1
@@ -4201,7 +4201,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 41.0,Laki-laki,Pegawai swasta,17686413.69,1,44.99695748,164.0249491,0,S1,1
 24.0,Perempuan,PNS,12878758.04,1,65.45985715,175.3636084,0,S1,1
 47.0,Perempuan,Pegawai swasta,5398869.738,1,61.94228207,149.0723126,1,S1,1
-36.0,Perempuan,Pengangguran,15851388.88,1,57.09224552,172.4066432,1,S1,1
+36.0,Perempuan,Tidak ingin memberitahu,15851388.88,1,57.09224552,172.4066432,1,S1,1
 19.0,Laki-laki,Freelance,10770692.03,0,49.38718956,162.1569696,0,S1,1
 51.0,Laki-laki,Pegawai swasta,7720084.575,1,57.95999039,185.1336034,0,S1,1
 61.0,Laki-laki,PNS,14588600.23,1,51.96349548,164.9250496,1,S1,1
@@ -4322,7 +4322,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 52.0,Laki-laki,PNS,9058983.464,1,51.01771297,172.7166809,1,S1,0
 43.0,Laki-laki,Pengangguran,15009358.26,1,60.87595937,182.4473276,0,S1,0
 59.0,Laki-laki,PNS,7241040.269,1,45.49849793,165.1799244,0,SMP,1
-59.0,Perempuan,Pengangguran,6219885.26,1,57.9933425,163.1356986,1,SMA,1
+59.0,Perempuan,Tidak ingin memberitahu,6219885.26,1,57.9933425,163.1356986,1,SMA,1
 30.0,Laki-laki,Freelance,26293855.12,1,52.66833802,159.045629,1,S1,1
 39.0,Perempuan,Pegawai swasta,4755729.192,1,46.58122129,152.6537719,0,SMA,0
 60.0,Laki-laki,Freelance,3813321.806,1,52.18777079,176.0731676,0,S1,1
@@ -4477,7 +4477,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 49.0,Laki-laki,Pegawai swasta,15225736.6,1,55.45648457,161.6060453,1,S1,1
 54.0,Laki-laki,PNS,12501378.43,1,52.45690973,159.9575643,0,SMP,1
 42.0,Perempuan,Freelance,4294390.027,1,42.56267846,160.8571138,0,S3,1
-44.0,Perempuan,Pengangguran,6452892.326,1,57.93792192,174.291114,0,S1,1
+44.0,Perempuan,Tidak ingin memberitahu,6452892.326,1,57.93792192,174.291114,0,S1,1
 29.0,Laki-laki,Pegawai swasta,8701743.83,1,70.69498184,166.0875569,1,S1,0
 69.0,Laki-laki,PNS,14096955.68,1,56.38831929,159.7000903,1,S1,0
 45.0,Laki-laki,Pegawai swasta,10422635.11,1,70.14823708,171.3674904,0,SMP,0
@@ -4498,7 +4498,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 45.0,Laki-laki,Freelance,5721231.971,1,75.27944664,175.983319,0,S1,1
 48.0,Laki-laki,PNS,6057950.884,1,51.6420108,182.9292104,1,SMP,1
 38.0,Perempuan,PNS,5960893.072,1,51.17842321,158.9087357,1,S1,1
-38.0,Laki-laki,Pengangguran,8578723.189,1,53.21774553,153.4814266,1,S1,1
+38.0,Laki-laki,Tidak ingin memberitahu,8578723.189,1,53.21774553,153.4814266,1,S1,1
 31.0,Laki-laki,Pegawai swasta,5304872.474,1,55.32286582,168.9742515,0,S1,0
 39.0,Laki-laki,Freelance,5008226.956,1,57.30829514,174.9481477,1,SMA,1
 40.0,Perempuan,Pegawai swasta,8955343.254,1,53.20560898,174.3617276,0,S2,1
@@ -4569,7 +4569,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 30.0,Laki-laki,Freelance,8746291.408,1,49.35975703,169.5053019,1,S1,1
 42.0,Laki-laki,Pengangguran,9107962.95,1,54.38855283,165.8666963,0,SMA,1
 32.0,Laki-laki,Pengangguran,5952612.908,1,50.40001018,164.3614375,0,S1,0
-20.0,Perempuan,Pengangguran,4797172.345,1,60.28925693,174.7630444,0,S1,1
+20.0,Perempuan,Tidak ingin memberitahu,4797172.345,1,60.28925693,174.7630444,0,S1,1
 37.0,Laki-laki,Freelance,7230552.003,1,48.65582222,173.5632607,1,S1,1
 43.0,Perempuan,Freelance,10673036.77,1,49.21568743,169.6779106,0,SMA,0
 30.0,Laki-laki,Pegawai swasta,3596661.465,1,55.16879552,174.3045619,1,S1,1
@@ -4667,7 +4667,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 57.0,Laki-laki,PNS,4728554.555,1,57.18586085,164.1691583,0,S1,1
 37.0,Laki-laki,PNS,5631659.168,1,55.69937161,179.8615013,1,S1,0
 50.0,Laki-laki,Freelance,3578369.952,1,45.15271422,152.1818911,1,SMA,1
-51.0,Perempuan,Pengangguran,5880011.985,1,47.68008423,168.796396,1,S2,1
+51.0,Perempuan,Tidak ingin memberitahu,5880011.985,1,47.68008423,168.796396,1,S2,1
 32.0,Laki-laki,PNS,8171641.081,1,53.02088446,163.4422253,0,S1,1
 55.0,Perempuan,PNS,15201795.35,1,66.59115972,171.1224404,1,S1,1
 34.0,Perempuan,Pengangguran,7526675.52,1,53.97877779,163.6688736,0,S1,0
@@ -4688,7 +4688,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 25.0,Laki-laki,Pegawai swasta,6077856.813,1,49.36669021,160.4162204,1,S1,0
 45.0,Laki-laki,Pegawai swasta,8341936.616,1,56.44475006,161.7997235,0,S2,1
 50.0,Laki-laki,Pegawai swasta,4898148.348,1,70.71648911,183.0123148,1,S1,0
-30.0,Laki-laki,Pengangguran,6098079.716,1,47.15228993,179.7567526,1,SMA,1
+30.0,Laki-laki,Tidak ingin memberitahu,6098079.716,1,47.15228993,179.7567526,1,SMA,1
 39.0,Laki-laki,PNS,10215804.31,1,51.69318454,167.3373433,0,SMA,1
 47.0,Laki-laki,Pegawai swasta,9224140.53,1,48.43782461,156.1250078,1,S2,1
 49.0,Perempuan,PNS,8001090.4,1,46.35871901,153.9435376,1,SMA,0
@@ -4731,7 +4731,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 37.0,Laki-laki,Pegawai swasta,3933962.742,1,50.92279633,155.5650356,1,S1,0
 36.0,Perempuan,Freelance,9927415.238,1,45.57442746,153.2359838,0,SMA,0
 43.0,Laki-laki,Freelance,13875810.35,1,44.4968807,175.7856351,0,S2,1
-37.0,Laki-laki,Pengangguran,16364668.78,1,66.57766864,156.2230959,1,S1,1
+37.0,Laki-laki,Tidak ingin memberitahu,16364668.78,1,66.57766864,156.2230959,1,S1,1
 30.0,Perempuan,Freelance,11194113.46,1,48.99654321,151.4988926,1,SMA,1
 30.0,Laki-laki,Freelance,5408778.711,1,75.05779387,207.7037349,1,SMA,1
 51.0,Perempuan,Freelance,4445213.371,1,57.86211982,176.6961212,1,S1,1
@@ -4758,7 +4758,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 44.0,Laki-laki,Freelance,8814432.699,1,68.16638291,173.9495419,1,SMA,1
 59.0,Laki-laki,Pegawai swasta,6032342.889,1,45.65994401,157.209851,0,S1,0
 31.0,Perempuan,Pegawai swasta,3224965.488,1,47.77435484,179.8692026,1,S1,0
-29.0,Perempuan,Pengangguran,22797864.67,1,48.32472748,154.2160864,1,SMA,1
+29.0,Perempuan,Tidak ingin memberitahu,22797864.67,1,48.32472748,154.2160864,1,SMA,1
 36.0,Laki-laki,PNS,7400455.466,1,52.81361229,166.0793339,0,S1,1
 32.0,Laki-laki,Pegawai swasta,6650286.865,1,83.64860345,175.8578211,0,S1,1
 53.0,Laki-laki,Freelance,5700106.677,1,45.87216055,155.1025484,1,S1,1
@@ -4810,7 +4810,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 41.0,Laki-laki,PNS,5247621.766,1,52.55290606,178.6700795,0,S1,1
 54.0,Laki-laki,PNS,6863179.822,1,44.9996302,143.5975854,1,SMA,1
 43.0,Perempuan,Pegawai swasta,22705333.54,1,57.24598607,174.7373758,0,SMA,1
-33.0,Laki-laki,Pengangguran,8467596.526,1,45.1449891,156.1370187,0,S1,1
+33.0,Laki-laki,Tidak ingin memberitahu,8467596.526,1,45.1449891,156.1370187,0,S1,1
 31.0,Laki-laki,PNS,15564124.87,1,60.85352552,167.1803567,1,SMA,1
 31.0,Laki-laki,Pegawai swasta,12036230.35,1,55.26572961,168.5062164,0,SMA,1
 39.0,Laki-laki,Pegawai swasta,2875174.977,1,81.39644314,171.4484005,1,SMA,1
@@ -4835,7 +4835,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 45.0,Perempuan,Freelance,7783208.351,1,47.8069758,156.8259957,0,SMA,0
 45.0,Laki-laki,PNS,7237561.19,1,48.53343142,155.2831299,0,SMA,0
 30.0,Perempuan,Pegawai swasta,7458762.83,1,56.05390983,174.0528355,0,SMA,1
-48.0,Laki-laki,Pengangguran,3334404.746,1,54.15398292,169.1977263,0,SMA,0
+48.0,Laki-laki,Tidak ingin memberitahu,3334404.746,1,54.15398292,169.1977263,0,SMA,0
 32.0,Perempuan,PNS,19303938.8,1,49.51432289,161.7869835,0,S1,0
 28.0,Laki-laki,Pegawai swasta,4484809.403,1,47.15869305,153.8211186,0,SMA,0
 29.0,Laki-laki,PNS,13603755.07,1,79.39561916,196.5018609,1,SMA,1
@@ -4861,7 +4861,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 46.0,Laki-laki,Pegawai swasta,10361809.53,1,55.52945404,153.5871155,1,SMP,1
 37.0,Laki-laki,PNS,4413012.843,1,72.55518937,171.7419213,0,S1,0
 37.0,Perempuan,Freelance,8458910.768,1,53.91568695,169.4149609,0,S2,1
-41.0,Laki-laki,Pengangguran,1641901.922,1,46.48295642,178.7160015,1,SMA,1
+41.0,Laki-laki,Tidak ingin memberitahu,1641901.922,1,46.48295642,178.7160015,1,SMA,1
 48.0,Perempuan,PNS,11165663.75,1,48.23100799,164.3463325,0,SMA,1
 29.0,Laki-laki,Pengangguran,10958144.49,1,55.22907547,158.3692157,0,SMA,1
 43.0,Perempuan,Pegawai swasta,12348250.97,1,78.49330928,183.4810845,1,S1,0
@@ -4982,13 +4982,13 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 37.0,Perempuan,PNS,4104863.539,1,73.64736135,186.8051471,1,S1,0
 46.0,Perempuan,Pengangguran,10455427.27,1,57.89843463,155.544856,0,S1,0
 42.0,Laki-laki,PNS,6030626.445,1,44.19197219,154.0274567,0,SMP,1
-40.0,Laki-laki,Pengangguran,6112590.99,1,52.54608367,154.3808936,0,SMA,1
+40.0,Laki-laki,Tidak ingin memberitahu,6112590.99,1,52.54608367,154.3808936,0,SMA,1
 53.0,Perempuan,PNS,13887426.8,1,58.43053757,169.66905,1,SMA,1
 41.0,Laki-laki,Pegawai swasta,8517078.054,1,48.2426936,156.478057,0,S1,0
 27.0,Laki-laki,Pegawai swasta,9652433.084,1,47.3811704,151.3767901,0,SMA,1
 41.0,Laki-laki,Pegawai swasta,10670931.86,1,50.75561947,171.8045106,0,S1,1
 49.0,Laki-laki,Freelance,6804015.243,1,57.36639634,153.3428294,1,S2,1
-35.0,Perempuan,Pengangguran,5201042.569,1,50.41349303,162.6667446,0,S1,1
+35.0,Perempuan,Tidak ingin memberitahu,5201042.569,1,50.41349303,162.6667446,0,S1,1
 31.0,Laki-laki,PNS,11006167.17,1,59.035467,167.7563853,0,S2,0
 35.0,Perempuan,PNS,11469169.56,1,55.81542385,165.9823066,0,S1,0
 53.0,Laki-laki,Pegawai swasta,5325467.807,1,65.4327012,157.5317532,0,S1,0
@@ -5023,7 +5023,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 34.0,Laki-laki,PNS,11463598.82,1,54.99899863,165.7069286,0,SMA,1
 27.0,Laki-laki,PNS,5516796.471,1,47.49582809,176.2376655,0,S1,1
 45.0,Laki-laki,Pegawai swasta,18319417.34,1,52.83083397,143.9250004,1,S1,1
-49.0,Perempuan,Pengangguran,4628822.987,1,47.85610007,171.3290219,1,SMA,0
+49.0,Perempuan,Tidak ingin memberitahu,4628822.987,1,47.85610007,171.3290219,1,SMA,0
 32.0,Laki-laki,Pegawai swasta,3153606.727,1,49.79229347,152.6034246,0,S1,1
 40.0,Laki-laki,Pegawai swasta,8499270.452,1,48.24000363,171.7275186,0,S1,1
 45.0,Perempuan,Freelance,10289936.87,1,55.459111,167.3815401,1,SMA,1
@@ -5072,7 +5072,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 42.0,Laki-laki,PNS,7211062.591,1,97.74458596,188.6552041,0,S1,1
 40.0,Laki-laki,PNS,10587098.54,1,52.70999992,172.3416852,0,S1,0
 43.0,Laki-laki,PNS,4428720.706,1,59.69192551,170.2223416,0,SMA,1
-36.0,Laki-laki,Pengangguran,10547084.38,1,45.89864123,175.1060364,1,SMA,0
+36.0,Laki-laki,Tidak ingin memberitahu,10547084.38,1,45.89864123,175.1060364,1,SMA,0
 51.0,Laki-laki,Pegawai swasta,9190101.883,1,73.46761158,186.1340884,1,SMP,1
 29.0,Perempuan,PNS,12516489.34,1,65.10285655,171.9157732,0,S1,1
 26.0,Perempuan,Pegawai swasta,18771577.29,1,68.11125804,156.6480647,0,SMA,1
@@ -5121,12 +5121,12 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 38.0,Laki-laki,Pegawai swasta,10819349.02,1,55.20763109,179.9901273,1,S1,0
 53.0,Perempuan,Freelance,4948420.254,1,55.77797101,162.5636306,0,SD,0
 36.0,Laki-laki,PNS,8102275.159,1,48.58359177,155.7577334,0,SMA,0
-32.0,Perempuan,Pengangguran,17360899.14,1,43.00209866,174.4382414,0,S1,1
+32.0,Perempuan,Tidak ingin memberitahu,17360899.14,1,43.00209866,174.4382414,0,S1,1
 39.0,Laki-laki,Pengangguran,7410311.265,1,58.03295865,173.9220601,0,S1,1
 43.0,Perempuan,PNS,12494266.99,1,57.71025471,173.4678943,1,S1,0
 64.0,Laki-laki,Pegawai swasta,5531278.403,1,80.18199742,169.9917845,1,S1,1
 53.0,Perempuan,PNS,5887793.617,1,72.24726357,162.2885488,0,S1,1
-50.0,Laki-laki,Pengangguran,20466612.63,1,44.09640749,158.7023377,1,S1,0
+50.0,Laki-laki,Tidak ingin memberitahu,20466612.63,1,44.09640749,158.7023377,1,S1,0
 29.0,Laki-laki,Pengangguran,16144837.94,1,46.55348396,163.6438339,0,S1,1
 49.0,Perempuan,PNS,6047513.516,1,70.39695836,157.3584688,1,S1,0
 49.0,Perempuan,Pegawai swasta,4053166.652,1,43.75973195,169.2736399,0,S1,1
@@ -5146,7 +5146,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 27.0,Perempuan,Pegawai swasta,10443413.76,1,48.52940996,177.0178129,1,SMA,0
 40.0,Laki-laki,PNS,6429286.628,1,67.01932825,194.5538686,0,S1,1
 40.0,Laki-laki,PNS,11730817.97,1,68.91903272,175.9413177,0,S1,1
-35.0,Laki-laki,Pengangguran,6451242.678,1,70.9656298,162.2842684,1,SMA,1
+35.0,Laki-laki,Tidak ingin memberitahu,6451242.678,1,70.9656298,162.2842684,1,SMA,1
 44.0,Laki-laki,Pegawai swasta,7599627.729,1,56.8304023,140.2895778,0,S1,1
 43.0,Laki-laki,PNS,10990436.31,1,49.91871937,168.8148765,0,SMA,1
 46.0,Laki-laki,Pegawai swasta,25862332.06,1,54.17757975,172.864204,0,SMP,1
@@ -5169,7 +5169,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 45.0,Perempuan,PNS,22226083.41,1,47.42619006,161.746593,1,SMA,1
 30.0,Laki-laki,Pegawai swasta,9468175.678,1,53.00251907,161.3544584,0,SMP,1
 20.0,Laki-laki,PNS,8188118.075,1,43.97647817,158.5659943,0,SMP,1
-45.0,Laki-laki,Pengangguran,11096139.21,1,51.23391092,163.8515414,1,SMA,1
+45.0,Laki-laki,Tidak ingin memberitahu,11096139.21,1,51.23391092,163.8515414,1,SMA,1
 51.0,Laki-laki,Pegawai swasta,6464039.123,1,52.13165835,165.1856516,0,S1,1
 39.0,Perempuan,Freelance,10696733.59,1,59.51079753,170.992576,0,S1,0
 42.0,Perempuan,Pegawai swasta,6394622.019,1,62.84915275,166.4583698,1,S1,1
@@ -5205,7 +5205,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 37.0,Laki-laki,Freelance,12982522.58,1,77.21472851,168.3725586,1,S1,1
 44.0,Perempuan,Freelance,15248486.55,1,55.01024293,158.9940839,1,S1,1
 45.0,Perempuan,PNS,3221052.918,1,49.22008504,152.3141044,0,SD,1
-25.0,Laki-laki,Pengangguran,3249331.192,1,76.86131479,165.0117847,0,S1,0
+25.0,Laki-laki,Tidak ingin memberitahu,3249331.192,1,76.86131479,165.0117847,0,S1,0
 38.0,Perempuan,Pegawai swasta,8781462.72,1,65.95850622,167.5530011,1,S1,1
 40.0,Laki-laki,PNS,10114565.68,1,58.46892968,179.1797294,1,S1,0
 39.0,Laki-laki,Pegawai swasta,6933627.712,1,51.09913355,171.6924915,0,SMP,1
@@ -5284,7 +5284,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 38.0,Laki-laki,PNS,16005108.45,1,64.73115691,162.7838773,0,SMA,1
 36.0,Perempuan,Pegawai swasta,5637436.349,1,45.96935393,174.0751992,1,S1,0
 57.0,Perempuan,PNS,12064636.05,1,69.55123388,164.0098573,1,SMA,1
-45.0,Laki-laki,Pengangguran,7642626.518,1,45.3721713,164.0652212,0,S1,1
+45.0,Laki-laki,Tidak ingin memberitahu,7642626.518,1,45.3721713,164.0652212,0,S1,1
 25.0,Perempuan,Freelance,7811026.354,1,53.2303207,168.4196501,0,S1,0
 40.0,Laki-laki,PNS,4975405.735,1,45.89688592,172.7464803,1,S1,1
 50.0,Laki-laki,PNS,5851718.704,1,47.77886505,165.7541548,1,SMA,0
@@ -5340,7 +5340,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 30.0,Laki-laki,Pegawai swasta,4014889.59,1,51.00341035,164.9573347,0,S1,1
 41.0,Perempuan,PNS,9131729.32,1,46.53086914,174.0824645,1,S1,0
 50.0,Laki-laki,PNS,18506386.72,1,52.75335065,156.7476105,1,S2,0
-36.0,Laki-laki,Pengangguran,11408561.97,1,51.09018444,163.4352724,0,S3,1
+36.0,Laki-laki,Tidak ingin memberitahu,11408561.97,1,51.09018444,163.4352724,0,S3,1
 49.0,Laki-laki,PNS,2698249.171,1,56.02212501,177.0871282,0,S1,1
 46.0,Laki-laki,PNS,6700571.086,1,48.78936523,169.0582763,1,S2,1
 37.0,Laki-laki,PNS,10009594.83,1,43.5247115,188.0230683,1,S2,1
@@ -5473,7 +5473,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 49.0,Laki-laki,PNS,5594553.425,1,50.89583414,178.1040964,1,SMP,1
 58.0,Laki-laki,Pengangguran,6013415.769,1,49.07602995,149.1831897,1,S1,1
 62.0,Perempuan,PNS,18192423.72,1,48.22308285,173.8374057,1,S2,0
-44.0,Laki-laki,Pengangguran,18612026.76,1,50.79193232,151.8187584,0,S1,1
+44.0,Laki-laki,Tidak ingin memberitahu,18612026.76,1,50.79193232,151.8187584,0,S1,1
 25.0,Laki-laki,PNS,11084719.46,1,59.79699825,174.9940165,1,S1,1
 39.0,Perempuan,Pegawai swasta,4909168.83,1,48.46079841,152.9293721,1,S1,1
 52.0,Laki-laki,Pengangguran,13927990.94,1,54.9164752,164.9367811,0,SMA,1
@@ -5611,7 +5611,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 47.0,Perempuan,Pengangguran,13106820.43,1,47.42904867,145.3184105,0,SMP,1
 48.0,Laki-laki,PNS,2952938.574,1,47.35112315,159.609281,0,S1,1
 32.0,Laki-laki,Pegawai swasta,11708864.42,1,46.14326254,149.8112504,1,SMA,1
-27.0,Laki-laki,Pengangguran,6701298.658,1,48.50970458,172.1393405,0,SMP,1
+27.0,Laki-laki,Tidak ingin memberitahu,6701298.658,1,48.50970458,172.1393405,0,SMP,1
 37.0,Laki-laki,PNS,4775827.039,1,52.51932492,157.8088897,0,SMA,0
 36.0,Laki-laki,PNS,8985299.586,1,60.33281969,160.9616859,1,SMA,1
 32.0,Laki-laki,PNS,13556588.05,1,56.15502708,153.4843467,0,S1,1
@@ -5674,7 +5674,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 28.0,Laki-laki,PNS,11151636.56,1,51.06713287,151.7364901,1,SMA,1
 37.0,Laki-laki,Pegawai swasta,16093586.63,1,44.45096018,156.9893605,1,SMA,1
 49.0,Laki-laki,PNS,10920549.46,1,54.93943921,171.3805302,1,S1,0
-37.0,Laki-laki,Pengangguran,7620384.563,1,66.14215641,169.3100528,1,S1,1
+37.0,Laki-laki,Tidak ingin memberitahu,7620384.563,1,66.14215641,169.3100528,1,S1,1
 40.0,Laki-laki,Freelance,3961180.351,1,48.51435216,155.1871297,0,S1,1
 30.0,Perempuan,PNS,5769996.958,1,75.50259523,171.2433633,0,S2,1
 36.0,Laki-laki,Pegawai swasta,6803731.173,1,61.07386584,168.7925674,0,S1,0
@@ -5782,7 +5782,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 60.0,Perempuan,PNS,13611944.44,1,76.68948403,165.4461988,1,S1,1
 45.0,Perempuan,Pegawai swasta,6051988.972,1,42.63203812,167.6121497,0,S1,1
 56.0,Laki-laki,PNS,10251864.51,1,68.67784915,157.789527,0,SMP,1
-44.0,Perempuan,Pengangguran,5496208.802,1,52.32839606,138.6818011,1,S1,1
+44.0,Perempuan,Tidak ingin memberitahu,5496208.802,1,52.32839606,138.6818011,1,S1,1
 39.0,Laki-laki,Pegawai swasta,6737603.162,1,46.36877315,162.8439971,1,S1,1
 46.0,Laki-laki,PNS,7439238.158,1,53.77185578,150.4380819,1,S1,1
 48.0,Laki-laki,PNS,5738378.811,1,50.7620581,152.9638464,0,S1,1
@@ -5793,7 +5793,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 54.0,Perempuan,Freelance,7892546.839,1,64.76541347,171.8508291,0,S1,0
 56.0,Laki-laki,Freelance,7139333.381,1,61.9126151,174.4372657,0,SMP,0
 44.0,Laki-laki,PNS,6340817.799,1,56.61355405,187.1072414,0,S1,0
-41.0,Laki-laki,Pengangguran,10066433.06,1,58.07480946,155.1812942,0,SMA,0
+41.0,Laki-laki,Tidak ingin memberitahu,10066433.06,1,58.07480946,155.1812942,0,SMA,0
 26.0,Laki-laki,PNS,11639225.54,1,44.67681443,150.9359502,1,SMP,0
 32.0,Laki-laki,Pegawai swasta,4548805.637,1,51.15655032,157.8300407,0,S1,0
 40.0,Laki-laki,Freelance,3165280.688,1,45.19920382,170.2635316,0,SMA,0
@@ -5825,7 +5825,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 50.0,Perempuan,PNS,7736906.573,1,64.32002133,172.6766983,0,S1,1
 43.0,Perempuan,Pegawai swasta,20296695.82,1,53.17113237,164.7598374,0,SMA,0
 56.0,Perempuan,Pengangguran,19070964.4,1,72.46450633,171.0360615,1,S1,1
-37.0,Laki-laki,Pengangguran,8767740.466,1,48.05819735,161.6227201,1,S1,1
+37.0,Laki-laki,Tidak ingin memberitahu,8767740.466,1,48.05819735,161.6227201,1,S1,1
 25.0,Laki-laki,PNS,17013507.91,1,49.42682767,169.5980874,0,S1,1
 45.0,Laki-laki,PNS,6084662.44,1,59.44702655,167.2137492,1,S1,1
 52.0,Perempuan,PNS,5826547.942,1,62.02499111,156.5892521,0,SMA,0
@@ -5880,7 +5880,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 57.0,Laki-laki,PNS,8965995.448,1,61.12501429,151.5312408,0,S3,1
 31.0,Laki-laki,Pegawai swasta,8027826.577,1,67.99539307,175.9373637,0,S1,0
 43.0,Perempuan,PNS,7855774.532,1,42.38903697,156.3893656,1,S1,1
-33.0,Laki-laki,Pengangguran,15896599.67,1,66.03661855,163.9231591,0,S1,1
+33.0,Laki-laki,Tidak ingin memberitahu,15896599.67,1,66.03661855,163.9231591,0,S1,1
 40.0,Perempuan,Pegawai swasta,4459535.239,1,69.60736664,160.8884801,1,S1,1
 33.0,Laki-laki,PNS,4584201.012,1,54.67808428,174.0772128,1,SMA,1
 44.0,Perempuan,Pegawai swasta,6614439.905,1,54.07287884,167.2366731,0,S1,0
@@ -5993,7 +5993,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 43.0,Laki-laki,Pengangguran,15700597.75,1,58.25912729,140.6777001,0,S3,1
 43.0,Laki-laki,PNS,7956281.339,1,52.46008418,188.3013607,0,S1,0
 49.0,Laki-laki,PNS,14926851.59,1,73.85851457,171.5091699,1,SMA,0
-36.0,Perempuan,Pengangguran,5713485.193,1,51.35619897,151.2359531,0,S1,1
+36.0,Perempuan,Tidak ingin memberitahu,5713485.193,1,51.35619897,151.2359531,0,S1,1
 60.0,Laki-laki,Pegawai swasta,15256724.94,1,52.89790201,175.0435838,1,S1,1
 47.0,Laki-laki,PNS,7698292.525,1,49.39679635,161.992103,1,S1,1
 32.0,Laki-laki,Pegawai swasta,10320509.77,1,49.40352322,167.0044644,1,SD,1
@@ -6081,7 +6081,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 41.0,Perempuan,Pegawai swasta,10122399.74,1,53.73101628,166.5402165,0,S1,0
 38.0,Laki-laki,PNS,8155817.605,1,75.73843025,177.7761212,0,SMA,1
 45.0,Perempuan,PNS,6465991.367,1,62.07539041,164.9316389,1,S1,1
-36.0,Perempuan,Pengangguran,5378224.852,1,48.48654878,187.4205332,1,S1,1
+36.0,Perempuan,Tidak ingin memberitahu,5378224.852,1,48.48654878,187.4205332,1,S1,1
 27.0,Laki-laki,Freelance,7297599.593,1,61.25114634,172.0602751,0,S1,0
 38.0,Perempuan,Pegawai swasta,20314480.4,1,47.70437051,154.7182626,0,S1,1
 42.0,Laki-laki,PNS,5533574.577,1,55.03833922,168.5052549,0,SMP,1
@@ -6167,7 +6167,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 32.0,Laki-laki,PNS,6452750.824,1,65.78304462,167.0153021,0,SMA,0
 38.0,Laki-laki,Pegawai swasta,17698397.58,1,43.11157205,173.1017817,1,SMP,0
 22.0,Laki-laki,PNS,4809392.986,1,63.41588554,172.0186704,0,SMA,1
-42.0,Laki-laki,Pengangguran,5824114.26,1,55.67393025,178.9537989,0,S2,0
+42.0,Laki-laki,Tidak ingin memberitahu,5824114.26,1,55.67393025,178.9537989,0,S2,0
 34.0,Perempuan,Pegawai swasta,6548484.811,1,52.48549653,157.0017149,0,S1,0
 46.0,Laki-laki,Pegawai swasta,8689596.098,1,66.64303661,177.3606791,0,S2,1
 51.0,Laki-laki,Pegawai swasta,6466044.55,1,69.49887293,180.6560393,1,S1,0
@@ -6185,7 +6185,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 48.0,Laki-laki,PNS,3793635.548,1,77.02164217,179.3312227,1,S1,1
 24.0,Laki-laki,Pegawai swasta,5553090.107,1,58.45305028,169.9354524,1,S1,1
 38.0,Laki-laki,Freelance,10196891.48,1,45.90765383,166.0084685,0,S1,1
-41.0,Perempuan,Pengangguran,6090238.098,1,45.30182481,148.9813489,0,S1,1
+41.0,Perempuan,Tidak ingin memberitahu,6090238.098,1,45.30182481,148.9813489,0,S1,1
 47.0,Laki-laki,PNS,5708023.785,1,50.96370337,161.3804459,1,S1,0
 35.0,Laki-laki,PNS,7506801.601,1,52.59864388,167.0520851,0,S1,1
 28.0,Perempuan,PNS,4182742.283,1,68.22628927,168.4594321,1,S1,1
@@ -6206,7 +6206,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 27.0,Perempuan,PNS,11502970.79,1,47.61806868,156.0389519,0,S1,0
 44.0,Laki-laki,Pegawai swasta,9220547.07,1,50.91953121,174.2436682,1,S1,0
 28.0,Laki-laki,PNS,18595759.0,1,53.88363191,164.2366881,1,S1,1
-38.0,Laki-laki,Pengangguran,6735476.28,1,61.6342304,180.2565743,1,S1,1
+38.0,Laki-laki,Tidak ingin memberitahu,6735476.28,1,61.6342304,180.2565743,1,S1,1
 37.0,Perempuan,Pegawai swasta,9921333.133,1,57.16445206,179.0078288,0,S1,0
 41.0,Perempuan,Pegawai swasta,6677827.863,1,60.04264245,171.0227754,1,SMP,1
 39.0,Perempuan,Freelance,14218570.37,1,42.77386942,145.2984583,1,SMP,1
@@ -6225,7 +6225,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 41.0,Laki-laki,PNS,12375864.29,1,55.14379744,175.2489749,0,SMA,1
 23.0,Perempuan,PNS,10479933.85,1,44.10700212,151.1138094,0,S1,1
 45.0,Perempuan,PNS,9790921.289,1,51.60093233,154.4779505,1,SMA,1
-41.0,Laki-laki,Pengangguran,16506224.47,1,64.62103001,158.4025812,1,S2,1
+41.0,Laki-laki,Tidak ingin memberitahu,16506224.47,1,64.62103001,158.4025812,1,S2,1
 20.0,Perempuan,Pegawai swasta,16093364.67,1,45.72930955,171.7927547,1,SMP,1
 41.0,Perempuan,PNS,5255824.268,1,48.2975314,161.5455848,1,S1,0
 28.0,Laki-laki,PNS,10665150.47,1,47.34730995,153.4063134,0,SMP,1
@@ -6234,7 +6234,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 47.0,Perempuan,Pegawai swasta,8285340.033,1,69.82673102,157.7224933,0,S1,1
 36.0,Perempuan,Pegawai swasta,8439478.337,1,47.48643154,179.098215,1,SMP,1
 63.0,Laki-laki,PNS,26768250.23,1,51.41195431,162.7152149,1,S3,1
-55.0,Laki-laki,Pengangguran,9453675.945,1,48.74323181,166.9646853,0,SMP,0
+55.0,Laki-laki,Tidak ingin memberitahu,9453675.945,1,48.74323181,166.9646853,0,SMP,0
 49.0,Laki-laki,Pegawai swasta,4853181.878,1,56.15153841,163.5958412,1,S1,1
 45.0,Laki-laki,Pengangguran,11651247.3,1,60.55393057,165.6227011,1,S1,1
 42.0,Laki-laki,PNS,3521567.511,1,47.24096352,171.029404,0,SMA,1
@@ -6287,14 +6287,14 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 53.0,Perempuan,Pegawai swasta,15951519.61,1,46.78037785,154.8470649,0,S1,1
 27.0,Laki-laki,PNS,4239660.15,1,72.26858993,161.8402681,0,S1,0
 65.0,Perempuan,Pegawai swasta,9911258.599,1,52.24748855,159.2291678,1,S2,1
-40.0,Laki-laki,Pengangguran,13737666.76,1,57.22707884,171.2306145,1,SMP,1
+40.0,Laki-laki,Tidak ingin memberitahu,13737666.76,1,57.22707884,171.2306145,1,SMP,1
 38.0,Laki-laki,PNS,10003835.0,1,68.37888383,175.6210738,1,SMA,1
 40.0,Perempuan,Pegawai swasta,7559070.299,1,50.27134638,170.507724,0,S1,1
 36.0,Laki-laki,Pegawai swasta,14141402.82,1,44.35251871,162.243565,0,S1,0
 47.0,Laki-laki,PNS,7598952.322,1,87.84328582,187.3291108,0,S1,1
 43.0,Laki-laki,Pegawai swasta,9902582.104,1,56.98700206,180.2334928,1,S1,1
 34.0,Laki-laki,PNS,8038759.585,1,52.00516063,183.055223,1,S1,1
-38.0,Perempuan,Pengangguran,17280841.73,1,51.20883282,159.1663713,1,S1,1
+38.0,Perempuan,Tidak ingin memberitahu,17280841.73,1,51.20883282,159.1663713,1,S1,1
 28.0,Perempuan,Freelance,12259915.17,1,65.75592073,189.0056792,0,S1,0
 42.0,Laki-laki,PNS,7012020.553,1,53.3798348,164.1799347,0,S1,0
 30.0,Laki-laki,PNS,21794043.24,1,63.01874205,175.8435725,0,S1,1
@@ -6384,7 +6384,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 55.0,Laki-laki,Pegawai swasta,8839608.502,1,62.4446961,166.3479761,1,S3,0
 44.0,Laki-laki,Pegawai swasta,6640051.419,1,54.52313317,157.967103,0,S1,0
 25.0,Perempuan,Pengangguran,3359105.549,1,48.63099712,158.8313825,0,SD,1
-22.0,Laki-laki,Pengangguran,8811162.476,1,55.06341834,160.9934911,0,SMP,1
+22.0,Laki-laki,Tidak ingin memberitahu,8811162.476,1,55.06341834,160.9934911,0,SMP,1
 41.0,Laki-laki,Pengangguran,19530020.64,1,52.85136883,172.6238205,1,S1,0
 51.0,Laki-laki,Pegawai swasta,9446274.344,1,74.25782666,162.5790367,1,SMA,1
 59.0,Perempuan,PNS,12226138.4,1,61.76266431,166.6494431,0,S2,0
@@ -6434,16 +6434,16 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 22.0,Laki-laki,Pegawai swasta,9538413.119,1,52.51374491,166.2687671,0,SMP,1
 37.0,Laki-laki,Pegawai swasta,16758907.68,1,51.33624022,156.7446179,0,S1,0
 40.0,Laki-laki,Pegawai swasta,13742731.45,1,59.18341208,165.5511177,0,SMA,1
-43.0,Perempuan,Pengangguran,5364407.484,1,56.01685463,172.4153378,0,S1,0
+43.0,Perempuan,Tidak ingin memberitahu,5364407.484,1,56.01685463,172.4153378,0,S1,0
 38.0,Perempuan,Pegawai swasta,7684296.777,1,50.06293126,179.4570272,0,S1,1
-44.0,Laki-laki,Pengangguran,9136735.266,1,48.71974522,150.2607596,1,SMA,1
+44.0,Laki-laki,Tidak ingin memberitahu,9136735.266,1,48.71974522,150.2607596,1,SMA,1
 49.0,Perempuan,PNS,9206896.44,1,54.80614859,177.8463642,1,S1,1
 41.0,Perempuan,Pegawai swasta,6751866.846,1,79.37184463,177.0954294,1,S1,1
 54.0,Perempuan,Pegawai swasta,7097370.014,1,51.90818219,176.5868062,1,S1,1
 48.0,Laki-laki,Freelance,11902962.42,1,70.05081258,163.0749981,1,S1,1
 36.0,Perempuan,PNS,13785436.86,1,73.9132517,173.9972522,0,SMP,1
 37.0,Laki-laki,Pegawai swasta,5144238.591,1,50.7281482,168.444882,0,SMA,0
-51.0,Perempuan,Pengangguran,9849026.303,1,59.39994905,170.1905104,1,SMP,1
+51.0,Perempuan,Tidak ingin memberitahu,9849026.303,1,59.39994905,170.1905104,1,SMP,1
 52.0,Perempuan,PNS,8662000.257,1,66.14413112,179.3291081,0,SMA,0
 39.0,Perempuan,PNS,5606037.797,1,50.20394097,140.5719423,1,SMA,1
 27.0,Laki-laki,Freelance,2860545.936,1,59.87746696,165.0480172,0,S1,1
@@ -6480,7 +6480,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 45.0,Laki-laki,Pegawai swasta,5763179.124,1,80.4922541,172.8844324,0,S1,1
 38.0,Laki-laki,PNS,5962915.992,1,64.3309093,160.6775685,0,SMA,0
 47.0,Perempuan,PNS,11533342.97,1,46.42256703,168.9327662,0,SMP,1
-42.0,Perempuan,Pengangguran,7379726.677,1,69.00874551,171.8809949,1,SMP,0
+42.0,Perempuan,Tidak ingin memberitahu,7379726.677,1,69.00874551,171.8809949,1,SMP,0
 34.0,Laki-laki,Pengangguran,12617702.89,1,50.31144536,174.457596,1,S1,1
 35.0,Laki-laki,Pegawai swasta,7260025.359,1,58.25281969,154.8979237,1,S1,0
 42.0,Perempuan,Pegawai swasta,12148107.79,1,55.01676912,172.2332711,0,SMA,1
@@ -6503,7 +6503,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 21.0,Laki-laki,Pegawai swasta,5096759.615,1,61.45302628,176.4569311,1,S1,1
 18.0,Perempuan,Pegawai swasta,5302614.266,0,68.26697034,171.9371198,1,SMA,0
 51.0,Laki-laki,Pegawai swasta,5932660.273,1,51.71552014,159.4046925,0,S2,0
-36.0,Perempuan,Pengangguran,9376071.626,1,55.97330365,160.7903736,1,S1,0
+36.0,Perempuan,Tidak ingin memberitahu,9376071.626,1,55.97330365,160.7903736,1,S1,0
 41.0,Laki-laki,PNS,6050469.485,1,56.898132,156.3011563,0,S1,1
 42.0,Laki-laki,PNS,4830598.15,1,53.83966863,160.4417426,0,S1,1
 41.0,Laki-laki,PNS,5096365.648,1,46.5631949,158.3183334,1,S1,1
@@ -6520,7 +6520,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 14.0,Perempuan,Freelance,15294432.64,0,52.59854402,153.9875916,1,SD,1
 32.0,Laki-laki,Pegawai swasta,10339223.53,1,64.30587896,172.8041785,0,S1,0
 28.0,Perempuan,Pegawai swasta,10409673.35,1,50.5297934,170.5252107,1,SMA,1
-46.0,Perempuan,Pengangguran,4690981.983,1,70.11329333,183.9791047,0,S1,1
+46.0,Perempuan,Tidak ingin memberitahu,4690981.983,1,70.11329333,183.9791047,0,S1,1
 34.0,Perempuan,Pegawai swasta,11928031.92,1,68.57508649,171.7700487,0,S1,1
 55.0,Laki-laki,PNS,11546306.66,1,66.28340027,160.7528076,0,S1,1
 22.0,Perempuan,Pegawai swasta,6228352.976,1,46.24464028,161.2872147,1,SMA,0
@@ -6551,7 +6551,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 56.0,Perempuan,PNS,27474498.88,1,66.31993415,167.4873256,0,S1,1
 37.0,Laki-laki,PNS,10994388.44,1,54.04213067,166.4942323,0,SMP,1
 44.0,Laki-laki,Pegawai swasta,9579222.44,1,53.28296096,161.7969336,1,S1,1
-29.0,Perempuan,Pengangguran,3856128.436,1,49.91860363,164.0125616,0,SMA,1
+29.0,Perempuan,Tidak ingin memberitahu,3856128.436,1,49.91860363,164.0125616,0,SMA,1
 52.0,Laki-laki,Pegawai swasta,6535994.888,1,57.43312332,152.5685172,0,SMA,1
 40.0,Laki-laki,PNS,4375827.237,1,64.42128095,168.2079934,1,S1,1
 48.0,Laki-laki,PNS,14708895.33,1,54.02849233,158.2606481,0,SMP,1
@@ -6585,7 +6585,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 34.0,Perempuan,Pegawai swasta,5904377.776,1,47.5567896,163.3697976,0,S1,1
 52.0,Perempuan,PNS,6965755.572,1,49.47088119,160.2459555,0,SMA,1
 66.0,Perempuan,Pegawai swasta,5507887.877,1,54.01196752,160.934888,0,SMA,0
-44.0,Laki-laki,Pengangguran,4230044.414,1,49.37280345,170.2526869,0,S1,1
+44.0,Laki-laki,Tidak ingin memberitahu,4230044.414,1,49.37280345,170.2526869,0,S1,1
 44.0,Laki-laki,Freelance,7713449.856,1,51.33433505,175.1942737,0,SMA,0
 69.0,Perempuan,Pegawai swasta,12050613.51,1,45.27940464,182.7803311,0,SD,1
 43.0,Laki-laki,Pegawai swasta,7743905.92,1,72.48082728,171.8863005,0,SMA,1
@@ -6612,7 +6612,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 40.0,Laki-laki,Pegawai swasta,9885702.586,1,47.95987045,166.9314112,0,SMP,0
 47.0,Laki-laki,PNS,10506881.27,1,45.90629617,170.6829848,1,S1,1
 53.0,Laki-laki,Pegawai swasta,9204610.896,1,60.57960557,186.9342489,0,SMA,1
-32.0,Laki-laki,Pengangguran,4844274.572,1,76.05722122,182.6787783,1,S1,1
+32.0,Laki-laki,Tidak ingin memberitahu,4844274.572,1,76.05722122,182.6787783,1,S1,1
 31.0,Laki-laki,Freelance,8397222.39,1,70.39412666,188.2655084,1,S1,0
 28.0,Laki-laki,Pegawai swasta,9604308.339,1,42.89966337,175.8416105,1,SMP,1
 31.0,Laki-laki,Pegawai swasta,5665733.044,1,67.57925008,164.4883072,1,SMA,1
@@ -6667,7 +6667,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 36.0,Laki-laki,Freelance,5565902.248,1,48.81651003,168.2314846,1,S1,1
 44.0,Laki-laki,Pengangguran,9157638.684,1,52.68742991,169.4902806,0,S2,1
 44.0,Laki-laki,PNS,6321009.91,1,58.19813254,161.4602104,1,S1,1
-37.0,Laki-laki,Pengangguran,3966711.39,1,74.76008794,177.0297368,1,S1,1
+37.0,Laki-laki,Tidak ingin memberitahu,3966711.39,1,74.76008794,177.0297368,1,S1,1
 34.0,Laki-laki,Pegawai swasta,7011800.18,1,55.33443393,151.0439136,0,SMA,0
 39.0,Laki-laki,PNS,12337126.14,1,46.92806286,169.6282154,1,S1,1
 38.0,Laki-laki,PNS,10122168.51,1,53.71679259,171.3567215,1,S1,1
@@ -6808,7 +6808,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 32.0,Laki-laki,Pegawai swasta,13670604.25,1,46.18793728,166.5250806,1,S1,0
 53.0,Laki-laki,Pegawai swasta,9116111.846,1,56.16411651,153.2487945,1,SMA,1
 53.0,Laki-laki,Pegawai swasta,6575329.329,1,46.68316679,169.1474062,0,SMA,1
-34.0,Laki-laki,Pengangguran,8387499.409,1,53.81920671,173.3292089,0,SMP,0
+34.0,Laki-laki,Tidak ingin memberitahu,8387499.409,1,53.81920671,173.3292089,0,SMP,0
 33.0,Perempuan,Freelance,12114431.85,1,63.1111881,162.0287293,1,S1,1
 32.0,Laki-laki,PNS,16987983.56,1,55.12626052,174.717375,1,SMP,0
 45.0,Perempuan,PNS,5833407.103,1,55.01429498,162.1620589,1,SMA,0
@@ -6819,7 +6819,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 25.0,Perempuan,Pegawai swasta,5971024.363,1,53.65450514,188.7496751,1,S1,0
 35.0,Laki-laki,Freelance,8663397.187,1,65.57254673,173.1542438,0,S1,1
 48.0,Perempuan,Pegawai swasta,9709905.371,1,63.86475802,183.0321989,1,SMA,1
-53.0,Laki-laki,Pengangguran,5608065.129,1,53.58280622,157.6330475,0,SMA,0
+53.0,Laki-laki,Tidak ingin memberitahu,5608065.129,1,53.58280622,157.6330475,0,SMA,0
 36.0,Laki-laki,Pegawai swasta,4661691.375,1,68.0107148,169.690963,0,SMA,1
 38.0,Laki-laki,PNS,9047007.586,1,58.8029986,154.670971,0,S3,1
 35.0,Laki-laki,Freelance,24238468.25,1,53.60714811,178.8308992,1,SMA,1
@@ -6872,7 +6872,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 56.0,Laki-laki,Pegawai swasta,3994471.451,1,56.78156841,164.3894028,1,SMP,0
 48.0,Laki-laki,PNS,20955417.43,1,72.70594659,186.1944722,1,S2,0
 22.0,Laki-laki,Pegawai swasta,9341219.322,1,64.17030132,182.764966,0,S3,1
-51.0,Perempuan,Pengangguran,7260304.069,1,60.58343074,158.1903433,1,S1,1
+51.0,Perempuan,Tidak ingin memberitahu,7260304.069,1,60.58343074,158.1903433,1,S1,1
 25.0,Laki-laki,Pegawai swasta,5527527.863,1,53.88527179,180.7764363,0,S1,1
 28.0,Perempuan,Pengangguran,9811053.376,1,42.28880554,177.3307013,1,S1,1
 30.0,Laki-laki,Freelance,5631408.789,1,86.1063195,183.0295263,1,S1,0
@@ -6942,7 +6942,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 32.0,Perempuan,Pengangguran,7823048.329,1,51.10593319,161.4265472,1,S1,0
 34.0,Laki-laki,PNS,6062427.514,1,61.26957682,181.4832311,1,SMA,1
 52.0,Laki-laki,PNS,4150970.174,1,48.29315145,155.5382094,1,S1,1
-33.0,Laki-laki,Pengangguran,9574599.358,1,76.95096371,183.9210584,0,S1,1
+33.0,Laki-laki,Tidak ingin memberitahu,9574599.358,1,76.95096371,183.9210584,0,S1,1
 45.0,Perempuan,Pegawai swasta,4533384.958,1,51.69465713,159.6664387,0,SMP,0
 43.0,Laki-laki,Freelance,8538299.105,1,52.75115795,165.0339254,1,SMP,0
 29.0,Laki-laki,Freelance,8394904.47,1,51.48270708,166.7164874,0,SD,1
@@ -6998,19 +6998,19 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 43.0,Laki-laki,PNS,10405912.49,1,60.02165779,165.0738983,1,S1,0
 21.0,Perempuan,PNS,5636414.566,1,48.7505399,144.6714662,0,S1,0
 45.0,Laki-laki,Freelance,5731029.888,1,47.4211782,165.3065613,0,SMA,1
-44.0,Laki-laki,Pengangguran,4560540.457,1,51.21332747,179.271094,1,SMA,1
+44.0,Laki-laki,Tidak ingin memberitahu,4560540.457,1,51.21332747,179.271094,1,SMA,1
 35.0,Laki-laki,PNS,8655164.468,1,59.27328402,185.6756208,1,S1,1
 31.0,Laki-laki,Pegawai swasta,5008866.421,1,62.98597482,160.9301288,1,S2,1
 45.0,Laki-laki,PNS,9734443.394,1,63.28173645,167.9758348,0,S1,1
 53.0,Laki-laki,Pegawai swasta,5065426.233,1,42.90329819,175.1880085,1,S2,1
 35.0,Laki-laki,Pegawai swasta,15119903.26,1,42.77750971,179.5529179,0,SMA,0
 42.0,Laki-laki,PNS,7159759.36,1,44.70879695,157.7671234,0,S1,1
-47.0,Laki-laki,Pengangguran,4645727.254,1,46.73892517,164.9980797,1,SMA,1
+47.0,Laki-laki,Tidak ingin memberitahu,4645727.254,1,46.73892517,164.9980797,1,SMA,1
 37.0,Laki-laki,Pegawai swasta,7942183.604,1,49.51266289,168.6701469,1,SMA,1
 39.0,Laki-laki,PNS,3795461.965,1,56.99084521,172.3129167,1,S1,0
 37.0,Laki-laki,Pengangguran,6372973.37,1,74.83783607,185.7883269,0,SMA,0
 38.0,Laki-laki,PNS,2377528.455,1,54.50031219,177.7293296,1,S1,0
-42.0,Perempuan,Pengangguran,11979643.28,1,56.09838348,179.4290798,0,S1,1
+42.0,Perempuan,Tidak ingin memberitahu,11979643.28,1,56.09838348,179.4290798,0,S1,1
 43.0,Laki-laki,Pegawai swasta,13301232.31,1,55.27500449,159.3664406,0,S1,0
 48.0,Laki-laki,PNS,15861395.57,1,56.01332956,155.8936925,0,S1,1
 34.0,Laki-laki,Freelance,8990835.244,1,103.4568751,178.7626874,1,SMA,1
@@ -7167,7 +7167,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 44.0,Laki-laki,Pengangguran,4485097.905,1,58.75681986,172.2209616,0,S1,1
 29.0,Perempuan,Freelance,6251081.815,1,51.05241198,148.5920225,1,S1,1
 39.0,Laki-laki,PNS,5483216.489,1,52.60687936,151.0000757,0,S1,1
-36.0,Laki-laki,Pengangguran,9124306.23,1,54.68725826,152.0514462,1,S1,1
+36.0,Laki-laki,Tidak ingin memberitahu,9124306.23,1,54.68725826,152.0514462,1,S1,1
 26.0,Perempuan,Pegawai swasta,8489272.903,1,65.4510273,167.7828333,0,S1,1
 39.0,Laki-laki,Pegawai swasta,4341203.79,1,61.08739823,175.468336,0,S1,0
 35.0,Laki-laki,Pegawai swasta,6259279.063,1,56.11092358,144.2155547,1,S1,0
@@ -7203,7 +7203,7 @@ umur,jenis_kelamin,pekerjaan,gaji_idr,is_menikah,berat_kg,tinggi_cm,is_merokok,p
 35.0,Laki-laki,Pegawai swasta,9121467.747,1,46.25712771,143.509208,1,SMA,1
 22.0,Laki-laki,Freelance,7232268.425,1,52.86716793,182.365003,1,S1,0
 35.0,Laki-laki,PNS,12216273.6,1,60.73722827,147.8268596,1,SMA,1
-40.0,Laki-laki,Pengangguran,4683458.229,1,52.42133674,159.1765027,0,SMA,1
+40.0,Laki-laki,Tidak ingin memberitahu,4683458.229,1,52.42133674,159.1765027,0,SMA,1
 33.0,Laki-laki,Pegawai swasta,13649559.45,1,53.0252037,154.174183,1,S1,1
 15.0,Laki-laki,Pegawai swasta,6216423.488,0,45.40964172,159.9303011,1,S1,0
 47.0,Perempuan,PNS,8481127.517,1,48.28048734,158.5149656,1,SMP,1
